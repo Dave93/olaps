@@ -1,0 +1,22 @@
+# bunjs project .gitignore
+
+# Ignore node_modules
+/node_modules
+
+# Ignore dist
+/dist
+
+# Ignore .env files
+/.env
+
+# Ignore logs
+/logs
+
+# Ignore IDE specific files
+.idea
+*.sublime*
+*.vscode*
+*.swp
+*.swo
+*.swn
+*.bak
