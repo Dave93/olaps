@@ -2,8 +2,24 @@ import getToken from "../token"; // Импорт библиотеки для п�
 import dayjs from "dayjs"; // Импорт библиотеки для форматирования дат
 import {dates} from "../GroupSalesReportDatesLog.json"; // Импорт библиотеки для логирования дат
 import pino from "pino"; // Импорт библиотеки для логирования
+import { Client } from '@elastic/elasticsearch'
 
 //-----------------------------------------------------------------------------
+
+const client = new Client({
+  node: 'https://localhost:9200',
+  auth: {
+    username: import.meta.env.ELASTIC_USERNAME,
+    password: import.meta.env.ELASTIC_PASSWORD
+  },
+  caFingerprint: "42:3F:DE:41:20:5B:6E:32:C4:C3:98:F4:69:41:70:F5:44:9D:1D:D6:70:9F:0F:2D:7D:47:63:3D:41:30:BB:ED",
+  ssl: {
+    rejectUnauthorized: false
+  }
+});
+
+// Define the index name
+const indexName = 'olap_sales';
 
 const fileTransport = pino.transport(
   {
@@ -147,8 +163,12 @@ const orderslist = (await orderslistResponse.json())['data']; // Получен�
 
 orderslist.forEach((item) => {
   const group = departmentlist.find((item2) => item2["RestorauntGroup.Id"] === item["RestorauntGroup.Id"]);
-  delete group["RestorauntGroup.Id"];
-  item.group = group;
+  let groupObject = {};
+  if (group) {
+    groupObject = {...group};
+    delete groupObject["RestorauntGroup.Id"];
+  }
+  item.group = groupObject;
 });
 
 //-----------------------------------------------------------------------------
@@ -263,8 +283,12 @@ const orderInfo = (await orderInfoResponse.json())['data']; // Получени�
 
 orderInfo.forEach((item) => {
   const order = orderslist.find((item2) => item2["UniqOrderId.Id"] === item["UniqOrderId.Id"]);
-  delete order["UniqOrderId.Id"];
-  item.orderResponsible = order;
+  let orderObject = {};
+  if (order) {
+    orderObject = {...order};
+    delete orderObject["UniqOrderId.Id"];
+  }
+  item.orderResponsible = orderObject;
   item.products = [...orderdishlist].filter((item2) => item2["UniqOrderId.Id"] === item["UniqOrderId.Id"]);
   item.products.forEach((item3) => {
     delete item3["UniqOrderId.Id"];
@@ -277,6 +301,60 @@ logger.info("Сохранение");
 logger.info({message: 'items count', data: orderInfo.length})
 Bun.write("./Order_Total_Info.json", JSON.stringify(orderInfo));
 // Bun.write(`./Order_Total_Info${dayjs(lastDate).format("DD.MM.YYYY")}.json`, JSON.stringify(orderInfo));
+
+
+/**
+ * Start ElasticSection
+ */
+
+
+// check if index exists
+const indexExists = await client.indices.exists({ index: indexName });
+
+if (!indexExists.body) {
+    // create index
+    await client.indices.create({ index: indexName,body: {
+        settings: {
+          number_of_shards: 1,
+          number_of_replicas: 1
+        },
+        mappings: {
+          properties: {
+            "UniqOrderId.Id": { type: "keyword" },
+            "OpenTime": { type: "date" },
+            "CloseTime": { type: "date" },
+            "Delivery.CloseTime": { type: "date" },
+            "OrderNum": { type: "keyword" },
+            "Delivery.Number": { type: "keyword" },
+            "ExternalNumber": { type: "keyword" },
+            "OrderType": { type: "keyword" },
+            "Delivery.ServiceType": { type: "keyword" },
+            "OriginName": { type: "keyword" },
+            "Delivery.SourceKey": { type: "keyword" },
+            "OrderComment": { type: "keyword" },
+            "Delivery.DeliveryComment": { type: "keyword" },
+            "PayTypes": { type: "keyword" },
+            // "OrderDeleted": { type: "keyword" },
+            // "DeletedWithWriteoff": { type: "keyword" },
+            "DishDiscountSumInt": { type: "integer" },
+            "orderResponsible": {
+                properties: {
+                    "group": {
+                        properties: {
+                            "Department": { type: "keyword" },
+                            "Department.Id": { type: "keyword" },
+                            "RestorauntGroup": { type: "keyword" },
+                            "Store.Name": { type: "keyword" },
+                            "Store.Id": { type: "keyword" },
+                        }
+                    },
+                    "RestorauntGroup.Id": { type: "keyword" },
+                }
+            }
+          }
+        }
+      } });
+}
 
 logger.info({message:'lastDate', data:dayjs(lastDate).format("DD.MM.YYYY")});
 

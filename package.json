@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@elastic/elasticsearch": "^8.9.0",
     "abort-controller": "^3.0.0",
     "atomic-sleep": "^1.0.0",
     "base64-js": "^1.5.1",
