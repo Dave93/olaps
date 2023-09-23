@@ -25,3 +25,5 @@
 **/*.json
 
 **/*.log
+
+!package.json
