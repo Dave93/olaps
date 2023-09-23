@@ -1,4 +1,4 @@
-import getToken from "../token";
+import getToken from "../../token";
 
 const token = await getToken();
 console.log("start olap");
@@ -10,28 +10,17 @@ const response = await fetch(
       reportType: "SALES",
       buildSummary: "false", //Включает и выключает суммирование (Промежуточные итоги)
       groupByRowFields: [
-        "RestorauntGroup.Id",
-        "OpenTime",
-        "DishId",
-        "DishName",
-        "OrderType",
-        "OriginName",
-        "UniqOrderId.Id",
-        "OrderDeleted",
-        "DeletedWithWriteoff",
+        "Department",
+        "Store.Id",
+        "Store.Name",
       ],
       groupByColFields: [],
-      aggregateFields: [
-        "DishAmountInt",
-        "ItemSaleEventDiscountType.DiscountAmount",
-        "DishDiscountSumInt",
-        "DiscountSum",
-      ],
+      aggregateFields: [],
       filters: {
         // Здесь вводим или какой либо шаблон дат () или опредленный период (так что сперва проверяется шаблон и если он не CUSTOM, то период дат игнорируется)
         "OpenDate.Typed": {
           filterType: "DateRange",
-          periodType: "CUSTOM", //Тип выборки периоды (Если не CUSTOM ингнорирует from и to)
+          periodType: "YESTERDAY", //Тип выборки периоды (Если не CUSTOM ингнорирует from и to)
           from: "2023-03-01", // Начало
           to: "2023-03-01", //Конец
           includeLow: true, //Включает и выключает from

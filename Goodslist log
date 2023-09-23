@@ -1,0 +1,4039 @@
+data: [
+    {
+      "Product.Id": null,
+      "Product.Name": null,
+      "Product.Type": null
+    }, {
+      "Product.Id": "0098e0c0-658a-44ba-809e-ba806e4ee40c",
+      "Product.Name": "Питьевая вода негазированная Montella 0,33лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "00e05d45-45d3-447d-9fd9-2e98bfe6583d",
+      "Product.Name": "Упаковки для фри",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "024180a6-4574-4955-af11-1c1e602dff4e",
+      "Product.Name": "Сок Яблоко 0,2 (детские)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "024f5c7c-0095-4d57-85f7-b9661486d6fd",
+      "Product.Name": "Мясо говяжая копчённая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "02a1aa95-46bd-4471-a922-06e1b0839feb",
+      "Product.Name": "Fanta 1л ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "030f4038-6344-41b9-833c-e465571cfa05",
+      "Product.Name": "Скотч",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "050f86c7-87c6-4611-8fe3-5d41f6f2bb74",
+      "Product.Name": "Упаковка Тостер Cheese (сыром) ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0547e82c-8a7a-41a8-8d97-951c51c2e290",
+      "Product.Name": "Горох (зеленый) консерв ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "06886eb5-f1df-4510-8776-0664a899f740",
+      "Product.Name": "Sprite 0.25 баночные CAN",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0699ce3f-ac4b-4c47-b580-dc3bddd78048",
+      "Product.Name": "Салфетки влажные",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "084b170c-f11d-45ff-9574-82fc4ffe1c38",
+      "Product.Name": "Дайкон",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "09921f83-6ff5-45c7-a170-d58246a98ef9",
+      "Product.Name": "Бедра куриные (перзола)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "09febd83-e4ce-403a-8d0a-f1bd1c6cd0d9",
+      "Product.Name": "Маргарин Щедрое Лето",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0ac5dc73-f693-4ab7-8dca-e4dce7a8e4de",
+      "Product.Name": "Гречка",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0ba519cb-d9c1-4982-83c6-c28abd7a0f13",
+      "Product.Name": "Стаканы одноразовые для coleslaw (Les Ailes)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0bc8ca4d-04c0-4e3f-89b5-1775c61c7e0e",
+      "Product.Name": "Обед",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0bd57930-049d-47fe-8e7e-a6917dbacffa",
+      "Product.Name": "Sprite 1.5",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0c0f8d7e-2f05-4ef6-88b2-8c9086b06d6f",
+      "Product.Name": "Посмикс Фанта",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0c8225a0-fdef-4ae5-891c-31b329d7d480",
+      "Product.Name": "Отбеливатель Белизна",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0cf7fa53-85d3-4a96-ae51-f1c5e9a227fe",
+      "Product.Name": "Коробка для пиццы большая 35х35",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0d51f459-12ad-4d9a-afc5-20906af835cb",
+      "Product.Name": "Морковь красная",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0d542ec2-8f6f-4cd6-8816-afa6bb5571ff",
+      "Product.Name": "Анчоус",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0ed02135-7b1c-432a-9502-d7e72705cdb2",
+      "Product.Name": "Пицца сетка маленький",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0ef21dde-3857-4379-8c31-8c5496c3d61c",
+      "Product.Name": "Голень куриная",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0f860077-996a-4796-8010-93b7f2a94abc",
+      "Product.Name": "Тарози 30кгли",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "0fae15e5-863c-4769-91fb-25bc3ced2a14",
+      "Product.Name": "Яблоко",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "10109021-f301-495a-8bae-2e5256ce5f0d",
+      "Product.Name": "Sanita антижир",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "102fe40e-66c7-41a5-81f6-1823858c1d84",
+      "Product.Name": "Джем (шт=470гр)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "10316605-459b-4503-9231-acb526e4ff1f",
+      "Product.Name": "Соль",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "10bc4a8f-3862-4716-a6bc-87bb036544c2",
+      "Product.Name": "Пакет для пицца  25 * 25",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "113b26fc-019e-4cd5-a1e9-b2e5a09f7107",
+      "Product.Name": "Швабра",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "11a09957-c495-476f-97b3-26fd40f95ceb",
+      "Product.Name": "Морковь желтая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "11b87fbe-67d5-44bc-844a-df8779c47b3a",
+      "Product.Name": "Паприка горькая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "124d9827-791f-4a00-9e4a-aae1839e0697",
+      "Product.Name": "Чарви (думба ёг)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "12d19b47-5f6a-4f43-888e-d3cbf2786619",
+      "Product.Name": "Контейнеры для соусов",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "14dbe072-66b8-4966-9528-8407f824a889",
+      "Product.Name": "Сок IL PRIMO вишневый 0.2",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "14f3a376-84ff-4015-aacb-2c5356d096fb",
+      "Product.Name": "Колбаса варёний ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "151567bb-d415-4cfa-9142-8ffadc387982",
+      "Product.Name": "Наклейки Chopar",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "15dcb668-4cc3-4f28-be61-ec8bf4025c87",
+      "Product.Name": "Тесто Лаваш (Сарик)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "15f7c98d-7975-4d6d-a2b9-b50a7228ae9c",
+      "Product.Name": "Мука Уно",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "18026c5f-5c0f-4a8f-8891-1300a7393e44",
+      "Product.Name": "Стаканы одноразовые для кофе (0.25) чёрные",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "18b5948a-e61c-4498-b9ad-8a283c77e5ee",
+      "Product.Name": "Стаканы для соков (Chopar) 190мл",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "190fd4c5-4f86-4c35-90f6-7f7a24e3a6e7",
+      "Product.Name": "Наклейки с собой (cashback)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1977b3a0-1f25-4025-887a-2e6211b7577f",
+      "Product.Name": "Сосиски (канада)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "19ef7a48-1e6a-4fa4-bff8-271c4120d25c",
+      "Product.Name": "Чай Impra в пакетиках Зеленый ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "19f67a4f-0854-4153-a375-01102c38b2d4",
+      "Product.Name": "Човли",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1a4ee320-5646-4a45-b2e4-a8fad2c62188",
+      "Product.Name": "Маслины (шт= 4 - 1,56кг)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1a4f22e0-7cae-41f4-b086-00dcae0a521d",
+      "Product.Name": "Fanta 0.25 баночные CAN",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1adf10d1-d9ca-470d-b44a-e2db9a125008",
+      "Product.Name": "Приправа куриная",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1b0d4328-6762-4004-bb81-59cf7ffecf38",
+      "Product.Name": "Кетчуп Tanho C",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1b0f3ab8-086a-484f-8f89-1773313fb3a7",
+      "Product.Name": "Порошок стиральный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1bc521f4-287f-4cee-bc1f-56ed4a1dfdb3",
+      "Product.Name": "Салфетки сухие",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1bddf96d-6d57-4bb7-9f51-9d3dcda5d4e7",
+      "Product.Name": "Bonaqua 0.5 л",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1bdf7e75-eba6-4dd3-b348-775360ccd80f",
+      "Product.Name": "Мука высший сорт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1bf2490c-18c9-499b-92b3-6036264137f1",
+      "Product.Name": "Газ балон",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1c53b8fa-cdfc-47d5-a3a7-1e801c908320",
+      "Product.Name": "Кабачки",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1ccb4192-c4b8-49cb-b112-a0a4454cac69",
+      "Product.Name": "Маргарин (250гр)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1d752ed2-5f9c-4635-a998-e5693e7ab2d4",
+      "Product.Name": "Наклейки бренд",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1da83a1e-503c-4296-9965-bc01c3609c40",
+      "Product.Name": "Мыло хозяйственное",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1dc12abe-a776-4b35-981e-76a53d0ddcdd",
+      "Product.Name": "Пергаментная бумага средняя 30*30",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1e1af088-8e28-4f10-9075-a09e86094a09",
+      "Product.Name": "Соус чили Tanho",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1e1c8a87-a4d9-4373-be25-abd0909deb39",
+      "Product.Name": "Капуста белокочанная",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1eaa380c-8074-49b9-b89c-67e0c4cec6f4",
+      "Product.Name": "Кофе Nescafe (в пачках)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1ecf7f56-813e-4b8c-ba84-45665e5f6b53",
+      "Product.Name": "Сосиски Егерские",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1f372c08-400d-4deb-a0f7-01f2af66cbc3",
+      "Product.Name": "Собой контейнер большой (F-15)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "1f842dcd-0388-44bc-9ae8-251dcfda8a48",
+      "Product.Name": "Коробка для Пиде",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "20075c2c-b912-4777-bd6d-6edea2fd1b7f",
+      "Product.Name": "Лопатка для пиццы",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "206a8902-acda-4210-8a7e-732246aff1dc",
+      "Product.Name": "Пергаментная бумага для Лонгера (446)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "217ce757-2cdc-4f10-99b4-7b6476b625d4",
+      "Product.Name": "Fanta 0.5 ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "21d50d74-b0f5-4306-b8ae-7417ef19aaa6",
+      "Product.Name": "Контейнер черный D=20см V=600мл",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "222ba06b-0137-4f72-adf4-e1183739958b",
+      "Product.Name": "Нож для пицца",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "22892a57-e360-4fb5-aa68-12ce91f7fde5",
+      "Product.Name": "Дрожжи",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "23c2df13-221c-415b-81d9-47e4038654a4",
+      "Product.Name": "Сарбат для цезаря",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "23c55f20-7e68-4dd5-9062-37620070db8f",
+      "Product.Name": "Coca cola 0.25 RGB",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "23d41998-259d-4702-a59d-b3e66bdadbff",
+      "Product.Name": "Уксус виноградный ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "24f8274c-ab26-4d66-9e92-3b0fb8677c07",
+      "Product.Name": "Жаг-Жаг",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "265f7b47-5a88-444e-8757-bf51aed2a586",
+      "Product.Name": "Арбуз (тарвуз)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "26982d4c-6db1-4d92-85b7-3c6f1e582151",
+      "Product.Name": "Трубочки для Мохито,Айс ти",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "27a050f8-4da7-4b63-89b3-c9c2b491e570",
+      "Product.Name": "Сиропы Бар in off  Банан",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "28386682-42ff-4193-93b1-377ac8229d01",
+      "Product.Name": "Бумажный стакан для Coca-Cola 300МЛ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2862e311-e013-40e4-9c64-54dd2527bcf3",
+      "Product.Name": "Хлеб Лепешка (Ёпкан нон)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "28c96340-5388-4367-a1f1-75adce634343",
+      "Product.Name": "Перец черный молотый",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "28e93c0c-c1fb-49f7-939c-5908f4027d5c",
+      "Product.Name": "Орбит сладкая мята 14гр",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2a87dfde-e07c-4b71-98ee-8bfac191c933",
+      "Product.Name": "Гулкарам",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2af37974-5c13-47ac-91be-22c06d11c291",
+      "Product.Name": "Лимон свежий",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2b0dc43b-34ae-4014-a84a-12b80f4973cb",
+      "Product.Name": "Бумажный стакан для Coca-Cola 500МЛ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2b327a26-8c03-48d1-a1df-b7dd9815b9dc",
+      "Product.Name": "Лист лавровый",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2b5b1619-0297-4b01-ac02-fd23ff0c2db9",
+      "Product.Name": "Перчатки одноразовые для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2c98c645-0a99-4715-a8e6-f92b3db4bd3c",
+      "Product.Name": "Апельсин",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2d131855-c339-43d7-b0c0-fb39f8248759",
+      "Product.Name": "Шпател",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2de0c97e-498f-4f2d-906d-0abdbf545f9c",
+      "Product.Name": "Сок Абрикос ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2e2d3e94-201e-4d27-93fd-3f452ad586fb",
+      "Product.Name": "Перец чили Omega",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2e6536ee-f971-417b-aa85-99ee71da22f6",
+      "Product.Name": "Сгущённое молоко",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2f71e23f-8ab3-420d-b611-2d51f5dd55a8",
+      "Product.Name": "Хурма ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2fa1c332-a7d7-4589-84cf-bff7a0a3f169",
+      "Product.Name": "Соус Гранатовый ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "2fb04979-e2ca-4cc4-80a6-6b308830d6e2",
+      "Product.Name": "Перец болгарский жельтий",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "30927f8a-7e05-4b61-8244-0e4d5bf75f48",
+      "Product.Name": "Трубочки для кофе и чая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "30ed1c88-0c1b-4fd3-bce8-68687ad37579",
+      "Product.Name": "Тарози 100кгли",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "31cc55cd-9615-45cd-8e0e-c06c5face798",
+      "Product.Name": "Пончики с ореховой начинкой(Nutty cream)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "31e3afe6-1320-401d-ba1b-621d1924cfcf",
+      "Product.Name": "Сироп лимон Бар нектар ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "31f06a7b-69d6-45d0-bc39-00d7418ba866",
+      "Product.Name": "Товар для теста",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "31fe746b-9650-45b1-8970-c8a79738f4db",
+      "Product.Name": "Мясо Говяжье для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "32e4de99-b6a1-43b1-97cf-bfb12e2f8b5c",
+      "Product.Name": "Грибы вешенки",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "331c84bd-4105-455b-9ae8-ec88b78f35d4",
+      "Product.Name": "Веник (Супурги)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "333bcf4b-98a3-41ea-9a81-34180502a9ff",
+      "Product.Name": "Лист салатный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3354357f-a8f0-4237-b7de-8833b8daf4d4",
+      "Product.Name": "Нутлет",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3388568d-b137-4cc3-b501-8dc404094fed",
+      "Product.Name": "Щетка металлическая для мытья посуда",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "33abec17-3072-4a5a-9623-fedf6e96134a",
+      "Product.Name": "Посмикс Спрайт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "343ac61a-8671-4d0d-9544-4f068d61dcfb",
+      "Product.Name": "Разрихител (paknar)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3465723d-38ea-4aee-9095-526c907ca25c",
+      "Product.Name": "Помидоры черри ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "352009a4-7752-49b6-a52e-c64e869d4d6e",
+      "Product.Name": "Пончики с начинкой яблоко-корица(Cinnamon)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "361af17a-8ef7-4ce2-abed-cd172a8188b8",
+      "Product.Name": "Трубочки для Coca Cola",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "363dec8e-60ac-4b75-8551-52a4c8d2c768",
+      "Product.Name": "Уксус 9%/10%/70%  шт=0,160лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3705a22b-8cc3-450e-976c-6d337f279f66",
+      "Product.Name": "Имбирь молотый Omega",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3841b19b-f881-4cbb-8be6-98d83a9d2d43",
+      "Product.Name": "Бахилы чёрные ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "38a2f9f2-a6fe-4f23-8b78-624530868814",
+      "Product.Name": "Зелень",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "398a1c88-d41c-49df-955f-ee4aecc83b09",
+      "Product.Name": "Приправа Mitsukan",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "39c486c6-baf8-4e2f-94ba-ddc4ebc85529",
+      "Product.Name": "Диспенсор соус идиш",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3a2670c3-f6e6-43ac-9f76-4838915dd897",
+      "Product.Name": "Губка для мытья посуда",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3a2fc2d1-0522-4b41-ab37-09a4506f82ca",
+      "Product.Name": "Тряпка для пола Микро фибро",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3a7f4c1d-2459-4890-8823-cdbb4f3db0eb",
+      "Product.Name": "Баклажка 0,5лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3b4f8d81-2f57-4771-8421-519c230c578f",
+      "Product.Name": "Мука кукурузная",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3bd764d9-050c-44b5-b4f7-20c7841ee3c9",
+      "Product.Name": "Шарлота",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3c03e9b9-6f9a-4026-9aa5-1b070424806f",
+      "Product.Name": "Помидор вяленний (коки) шт=2,1кг",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3c5bd169-8483-4f3a-ba9e-bed0313a6f03",
+      "Product.Name": "Картон для 3х комплект (ок картон *1)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3e56bd12-0230-4a30-a95d-ccf69bf8f3fe",
+      "Product.Name": "Сок IL PRIMO манговый 0.2",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3eed50f8-ecfd-4957-8d63-3406fbdf7cdc",
+      "Product.Name": "Пакеты отрывные  маленький",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3f006c48-75bf-4e3a-b7a0-186109aede41",
+      "Product.Name": "Орбит Сочный арбуз 14гр",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3fb32789-1c8b-4f14-af83-cc49195b4013",
+      "Product.Name": "Сырный соус ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "3ffd300e-9729-4a25-adef-74272006419c",
+      "Product.Name": "Контейнер крафтовый для суп",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "404676e7-eda6-4289-b73d-584324b85c40",
+      "Product.Name": "Орбит White мята 14гр",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4062d72d-3451-4c63-bf96-e176cb805c2a",
+      "Product.Name": "Стаканы одноразовые (0.33) Hot Dogi Dog",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "40755802-6bb6-43c3-b77c-fa16dcca742e",
+      "Product.Name": "Степлер",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "40d1145e-659a-474b-9ed3-fd7b63f6dac4",
+      "Product.Name": "Примикс Fanta 18лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "40de92af-3c84-46fa-a3e1-6e9c3ef7b5a8",
+      "Product.Name": "Перчатки синие медицинские (M)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4185ec67-8715-4359-9292-67dc23ae8a4c",
+      "Product.Name": "Масло растительное шт=1лт Затея",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "41da6909-4572-4a11-a665-8355cb72ebd3",
+      "Product.Name": "Без доп начинки товар",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "426f4796-3f6b-4e47-9d93-7776ba4d409e",
+      "Product.Name": "Пакеты с собой (Hot Dogi Dog)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4273942b-e1f6-464f-9327-a53a0e4f4a40",
+      "Product.Name": "Упаковки для фри Amsterdam (стакан)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "429ee83a-0ae4-4953-a1f8-16cfc19cb8b3",
+      "Product.Name": "Пакет полителиновый Средный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "42bff287-8a88-4b00-b559-d61522a7679b",
+      "Product.Name": "Острый для курицы",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "43e3578c-6433-465f-950b-8672c7cdfa3e",
+      "Product.Name": "Айсберг",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "44026df0-3167-4199-a440-6022ac5171f2",
+      "Product.Name": "Corn Bread смесь кукурузног хлеба",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "44f4dbf9-d3db-4973-97ef-597a36c67c19",
+      "Product.Name": "Пергаментная бумага большая 35*35",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4658f432-132e-4a96-9d0e-4c461ad214dc",
+      "Product.Name": "Упаковки для салатов Les Ailes / Chopar",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "465cbe65-9a87-4f59-9099-a1801a06c1d3",
+      "Product.Name": "Коробка для пиццы маленькая 25х25",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "47557f22-aa08-43f9-804b-89f1309eaee3",
+      "Product.Name": "Соль для ПФ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4797dd35-95f4-4803-92aa-5238d6e6c45a",
+      "Product.Name": "Рис Аланга",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "48491e46-bd91-4c64-86b4-27fa5f46a8ec",
+      "Product.Name": "Какао",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "48a99ed5-83fc-46ac-b565-fc934100ebca",
+      "Product.Name": "Сито (элак)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "491a65da-8a8a-417e-9fe1-9b1ee6a15346",
+      "Product.Name": "Фольга",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "49a1b31b-198b-4334-9c98-577e322f355a",
+      "Product.Name": "Масло оливковое",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4aa75199-c75a-4a5c-84eb-3d50b7ac2ea6",
+      "Product.Name": "Сок Персик 0,2 (детские)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4b4595db-e329-423d-93e1-2e54673172e1",
+      "Product.Name": "Лук репчатый",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4b4f08b0-ab88-4212-8f19-8cd22a5166d0",
+      "Product.Name": "Спрей для мытья окон",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4bc55371-9e92-4839-9a7d-b3e07129ae74",
+      "Product.Name": "Пергамент для турк кухня (CESIM)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4c8889c1-8821-4a8d-9269-e2d733121208",
+      "Product.Name": "Мыло жидкое  5л",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4ccf9aa5-8948-4639-a2c5-2e880ad3a5a2",
+      "Product.Name": "Фасоль свежая для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4d4336be-a2a0-467a-8827-bb55b91aa8ff",
+      "Product.Name": "Салфетки диспенсерные\n",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4f3c9130-f329-4838-b081-eaedbbb210a7",
+      "Product.Name": "Тесто Лаваш (ок)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4fc3163f-cb34-47b9-8439-bb95991c4a7b",
+      "Product.Name": "Smoke Seasoning приправа для копчения",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "4ff55108-f702-40d3-8afb-3c87b2adf0cf",
+      "Product.Name": "Марля ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "50c63043-cbbf-4b40-8e19-fd40756dcc5a",
+      "Product.Name": "Крахмал",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "515b848f-c7fb-4f76-8732-d557cc218869",
+      "Product.Name": "Сельдерей",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "51d1fbc7-9a31-4cca-b0dc-0c3d84934aed",
+      "Product.Name": "Ток барги",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "51f64b64-12f1-491c-9232-43eec6f5e0c3",
+      "Product.Name": "Зубочистки",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "53052ea9-ae54-4681-be6e-e91a616eac6a",
+      "Product.Name": "Бумага туалетная Большая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "530de4cf-671c-4168-a24d-a4e780d2cb4c",
+      "Product.Name": "Маш для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "53d7def0-5753-43e6-9fd8-b4a0c6e20466",
+      "Product.Name": "Утенок средства для чистка",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5549ea25-7417-485c-a3c6-0b0e49160247",
+      "Product.Name": "Тарелка однаразовая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "556fef46-7fce-4cfc-a31a-dc54f0e15895",
+      "Product.Name": "Баскет маленький",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "566f54da-a18e-4b1a-82a4-c6d4f2e335ea",
+      "Product.Name": "Хоттабыч фисташковый",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "56e48dc5-bc69-4533-8ec5-a92564f267ef",
+      "Product.Name": "Стаканы одноразовые для кофе (0.33) красный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "56e5b7b7-2403-4a1d-a75a-fea05a32b9eb",
+      "Product.Name": "Полотенце бумажные большое",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5760a67e-85ce-4dc1-9663-aa17a92d29f9",
+      "Product.Name": "Sprite 0.25 Бутилок NRG",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "576c3325-9c61-42e9-beed-e567cd39dae5",
+      "Product.Name": "Крот средство для прочистки труб",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5772f779-cffc-442a-b4ce-7d08f6423eac",
+      "Product.Name": "Лук красный шалот",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "579780a1-f63c-489d-aafe-973bfdc46e56",
+      "Product.Name": "Кукуруза консервированная (шт=280гр)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "57beaf5a-df7d-4f68-af66-c0ea8f2429f1",
+      "Product.Name": "Стаканы одноразовые для чая 330мл (Chopar)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "589e49ae-ba55-49e4-949c-e123aba78350",
+      "Product.Name": "Чистящее порошок (ЧИСТОЛ)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "58e387cf-4f6f-4ed5-a4c5-773e3b1b5254",
+      "Product.Name": "Чай Impra в пакетиках Черный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "59268092-de19-4e6d-adc5-51c458902a3f",
+      "Product.Name": "Пончики с драже(Texas Donut)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "59721145-f36f-43ee-9739-01c69132d5f2",
+      "Product.Name": "Спички",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "59a85d26-cdb2-4f20-8e59-46ae70fe0f57",
+      "Product.Name": "Хоттабыч пломбир",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5a21ce93-b903-4e86-9999-8aa7b6ceda01",
+      "Product.Name": "Горячий шоколад Ристора шт=1кг",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5a685ac9-0aa2-4d16-baaa-51a9b903ee31",
+      "Product.Name": "Стакан бумажные для Chicken corn Les Ailes",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5aa45ed2-4e2d-4a29-8cac-ed2c5fac8fcd",
+      "Product.Name": "Орех",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5ab82108-7f89-4fa1-83f3-2e8874280225",
+      "Product.Name": "Кетчуп Танхо в саше",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5ae132c0-f75f-4bca-b952-2d28e0c97cd1",
+      "Product.Name": "Нож",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5c2a5cfb-e149-4ced-aa18-ec98b2e93ff4",
+      "Product.Name": "Бумага для чеков маленьная",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5d38ba94-1e42-443d-b636-5d95e3307d55",
+      "Product.Name": "Калкулятор",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5eac00a6-1859-4b1c-8e99-7e4c3591dae9",
+      "Product.Name": "Шпажки большие",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5ed14895-7998-4ca5-bc99-1139fd837cca",
+      "Product.Name": "Сок Вишня 0,2 (детские)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5f4b4c99-03b8-46f7-a169-6f283bacc438",
+      "Product.Name": "Коробка Собой  (держател)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "5f8722c5-ab3d-49a9-b96a-a4991bc60fc9",
+      "Product.Name": "Кетчуп Tanho для  Les Ailes",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "602d5850-6c6a-42b7-9da2-8cbd6b3f1e4c",
+      "Product.Name": "Купон Анхор",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "61466283-749f-421f-86ee-d725da192082",
+      "Product.Name": "Соус чили импортная (шт=200гр)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "617b48b5-1297-4753-bae6-82d60d612e54",
+      "Product.Name": "Картофель",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "617eb724-b4be-46cb-8336-8f12b18418b2",
+      "Product.Name": "Сиропы Бар in off Клубника",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "61f3c788-a29b-4ec6-aaf0-30c568eef622",
+      "Product.Name": "Фарш говядина",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "62ba488a-c3e3-4d67-bb3d-3d49a72cfb9c",
+      "Product.Name": "Упаковки Kids Box",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "640b155d-18de-46a6-8e89-2559dfe48c34",
+      "Product.Name": "Паста томатная",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6472ce74-8a18-441c-9df5-d1577762b736",
+      "Product.Name": "Огурцы маринованные (в банке 1.6 кг)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "64a5d8a3-5ae5-4c33-9233-49cb30179c56",
+      "Product.Name": "Капуста красная",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "650da02a-319d-4c51-83f8-232d29722e8d",
+      "Product.Name": "Картон для 3х комплект (ички кисм *3)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "65a8df56-2fc6-48c2-8bdc-127ac8cdc4f7",
+      "Product.Name": "Curry predust приправа ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "65d88767-c331-4f1a-b5b8-950eb804b1e1",
+      "Product.Name": "Крем бальзамический \"Mengazolli\" шт=0,540кг",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "668dd0d1-730e-4d84-8e82-2f4e50f85947",
+      "Product.Name": "Фарш говядина для шашлик",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6705d9cb-9da5-4f7b-8ccf-eb45c7db71a1",
+      "Product.Name": "Упаковки Big Box",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "675fcfc5-64be-4500-8321-91d062b4df48",
+      "Product.Name": "Тарози 50кгли",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "679609bc-3209-4779-a31a-1ecfd474eeaf",
+      "Product.Name": "Магнит",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "67caf5c0-e1d0-49c5-aed2-76da2d75fba5",
+      "Product.Name": "Сосиски BBQ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "67d3750f-e652-43d7-8d39-6f1a057e6481",
+      "Product.Name": "Сахар",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "67da6c9a-a0c7-4604-ad91-1ee4c2477e92",
+      "Product.Name": "Контейнеры для соусов 80гр для пиде",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "687dea7e-d9d8-49db-ab24-a78d31586f3e",
+      "Product.Name": "Макарон  ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6932bd47-db45-406e-bcb5-2186fe2e1368",
+      "Product.Name": "Пергамент Патнос для Лес-Айлес",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6a57da31-e67b-49d4-9b4d-1db49c3d18ac",
+      "Product.Name": "Fuse tea 0.45 (товар)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6aadadb9-c6b4-449e-ae9d-60dbd3334739",
+      "Product.Name": "Пельмени",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6c113d81-e92d-4c61-9dbc-ea4a276fccea",
+      "Product.Name": "Бон филе",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6c8fe9d7-1175-4c38-80a8-52a7a1a479b7",
+      "Product.Name": "Пакеты с собой маленькие (Les Ailes) 20*10",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6ce8c39c-9351-47fa-b2bf-0db9eef73ec8",
+      "Product.Name": "Бульон Роллтон (90 гр)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6ceed993-ae5c-4251-810c-88738a8b912f",
+      "Product.Name": "Коробка сет Les Ailes 3 маленькая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6d04b153-c035-4cfc-a8f3-6667b75f5ba3",
+      "Product.Name": "Пергаментная бумага для Бургера ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6d6503bb-af50-4d28-a781-017af78f9c5b",
+      "Product.Name": "Басай",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6e39a5d8-cd45-4d2a-b37b-f21dd3e74496",
+      "Product.Name": "Сыр микс  (Al-Safi)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6f4a8e7d-24a4-4763-b013-d1a6a6560ef1",
+      "Product.Name": "Пицца сетка Большой",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "6f8d9268-0980-4803-b03c-0a647bb09d8c",
+      "Product.Name": "Sprite 1л ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7139f936-3be8-43b0-9678-4d0e312c93b2",
+      "Product.Name": "Кинза",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "715032ed-03fd-4991-a635-cdf860fe02cb",
+      "Product.Name": "Соки в ассортименте (1л)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7171b302-5e97-4994-a9d9-886334939868",
+      "Product.Name": "Контейнер Квадрат 80*75",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "726a96c8-6096-4f90-80ad-66aa9fad52b4",
+      "Product.Name": "Чек для Xprinter",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "72972cfa-825c-4ff6-b24a-53715104076d",
+      "Product.Name": "Маска Медицинская",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7358e7b5-3331-4e55-a4c9-e527c33b8e02",
+      "Product.Name": "Лёд",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "73e606a5-dc33-49b4-8166-be3d653026ea",
+      "Product.Name": "Жидкое мыло TORK шт=1лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "73ee41f4-87ae-433e-826a-b6e64f6751c6",
+      "Product.Name": "Пицца лопатка Дастаси",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "741b9afe-b885-47b0-85be-9caa31e3bdbb",
+      "Product.Name": "Пакеты мусорные большие",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7420a416-54d2-4452-8bcd-fecb93dacbe6",
+      "Product.Name": "Сок Лимон-мята ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "760664aa-d3c4-4a62-9a3f-0826b1f29431",
+      "Product.Name": "Коробка для пиццы средняя 30х30",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7653305c-1c4f-4300-9668-2c2f0ce06637",
+      "Product.Name": "Тарози 5кгли",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "76f5cb89-60bd-483c-a14e-de9873167ef2",
+      "Product.Name": "Сок IL PRIMO ананасовый 0.2",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "777ae90a-be0c-47d6-8973-9d7fae2bd5d7",
+      "Product.Name": "Приправа чесночная ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "77b19341-de93-4eaf-9ba5-76f0f017ed9f",
+      "Product.Name": "Сок Мултифрукт 0,2 (детские)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "77d1275b-ef26-4ce1-86ca-e72b87596bb7",
+      "Product.Name": "Бородинский",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "79d63248-1daf-4c04-a63b-7d24b69a73eb",
+      "Product.Name": "Маршмеллоу",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7a23d89c-a88e-48b0-9b5a-477e19da4366",
+      "Product.Name": "Пончики с черникой(Blueberry donut)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7a37012c-f51d-4df6-a821-abb9d6879b53",
+      "Product.Name": "Примикс Sprite 18лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7b1367ae-39ae-4033-b99f-297ca72630a1",
+      "Product.Name": "Стаканы одноразовые для чая (Les Ailes)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7b1d0786-c118-48fb-9fb0-13faddb2f674",
+      "Product.Name": "Сок Яблоко ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7bb2c17e-69ab-4e59-9d07-078496be6639",
+      "Product.Name": "Мампар для персонал",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7c7394c5-9ddc-4c16-903e-4c03ae1e5369",
+      "Product.Name": "Приправа Оригано",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7edb1321-58f2-4d2f-a1da-96c0ced4fb05",
+      "Product.Name": "Упаковка 1чел (салфетка+зубочистка)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7ef68b0d-b006-45df-bf89-447e4392b343",
+      "Product.Name": "Латта перчатка",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7f3e7363-181b-4fb0-a734-9843779af4da",
+      "Product.Name": "Изюм для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "7fa8ad40-70fd-4535-b2bb-bc40488e53ce",
+      "Product.Name": "Посмикс Кола ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "801ae3e8-f27c-4b5c-9648-7a224cc7f4fd",
+      "Product.Name": "Кази",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "808970d5-d2c8-4915-a0e1-8791e71d7e72",
+      "Product.Name": "Сок Лесная ягода ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "809cb212-786c-4a07-94da-bacf284fb551",
+      "Product.Name": "Coca Cola 0.25 Бутилок NRG",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "80b20b10-ce1b-4934-81f6-e2f5eb468fb7",
+      "Product.Name": "Контейнер 400гр",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "81478347-2016-45ec-940e-8870eda555da",
+      "Product.Name": "Сыр Hohland шт=0,150кг",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "818414f9-bc3f-4285-85ad-1aa5e3af1932",
+      "Product.Name": "Пергамент угол ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "819d2718-33e4-4a61-897e-a400eb6679e9",
+      "Product.Name": "Упаковки Лодочка Les Ailes",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "81e8008d-39f9-4f6f-91a4-b6f9f93206b3",
+      "Product.Name": "Пергаментная бумага маленькая 25*25",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "82204962-f997-4ab4-a273-93e2e41f053d",
+      "Product.Name": "Картофель фри Amsterdam",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "832c78ca-77bb-40ca-bd78-0410aa8aa1eb",
+      "Product.Name": "Тмин (зира) для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8472da88-c3ae-4dda-b097-feafa87802c1",
+      "Product.Name": "Пакеты с собой большие (Les Ailes) 24*15",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "84e8d187-8dd8-4339-a9de-622114fe4472",
+      "Product.Name": "Пончики кола(Cola donut)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "84eb2618-36b4-4ab1-9123-9d1db6b41ef2",
+      "Product.Name": "Domestos",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "85cdda91-a618-4693-89bf-9f32bd69a2ed",
+      "Product.Name": "Редиска ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "861bbad6-c3db-4207-afae-77f86310c720",
+      "Product.Name": "Свекла",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "864e6c48-3ac5-4c03-a7f9-bbe1e4182c7f",
+      "Product.Name": "Сок IL PRIMO мультифруктовый 0.2",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "87a35ec2-da47-4126-9bdd-96244c9dbb1a",
+      "Product.Name": "French Соус Апитито",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "87becda8-6da1-4c79-91cf-e0afea4bd202",
+      "Product.Name": "Чай Dilmah в пакетиках Зеленый ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "87e588a1-851b-4171-86cc-55ac03242702",
+      "Product.Name": "Пакет для пицца  35 * 35",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "88a10c5d-4777-4798-a159-7ce170c62f19",
+      "Product.Name": "Перловка",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "89fe101c-faf1-4a28-81b1-005e21a51013",
+      "Product.Name": "Филе куриное",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8afaf153-0b28-4a41-a31e-783b17277b1c",
+      "Product.Name": "Сыр чеддер",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8b5f278f-507a-4313-a99b-e17df6d21b04",
+      "Product.Name": "Орбит Winterfresh 14гр",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8b60299e-c4d3-4778-96b4-ce5c51419d52",
+      "Product.Name": "Майонез для цезара",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8bbfe087-3ee9-462b-847c-7be47193acc6",
+      "Product.Name": "Тряпка дельфин цветной",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8c5913d1-3c42-4977-8d9d-f04555d2bc86",
+      "Product.Name": "Коробка сет Les Ailes 2 средняя",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8d8f3a2c-8ba7-4db0-9d1c-7deb3b8486fa",
+      "Product.Name": "Майонез Apitito",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8e22412e-eebc-47d8-a45b-14cbe3c0623f",
+      "Product.Name": "Сок Мултифрукт ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8ee15875-bba0-4b9c-8f64-89c2eb6d464a",
+      "Product.Name": "Soufle смесь ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8ef02e8d-c2f6-461d-a74e-f407a832a8ca",
+      "Product.Name": "Coca-Cola 1.5л ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8ef23cd0-9803-4129-8216-f756cc23a42b",
+      "Product.Name": "Вакум пакет (1кг Френч)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8f1bfd45-c3b4-4deb-b482-141e6c7bd40b",
+      "Product.Name": "Сок Малина ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8f69abf5-1861-4b10-8e8f-5e0903d61d41",
+      "Product.Name": "Рис Лазер",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "8f6a9431-60fa-4e9e-b302-493140b0c663",
+      "Product.Name": "Резинка для денег",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "91c62172-7708-4018-ad14-d53c99f73693",
+      "Product.Name": "Сухарики",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "91ecb93e-1fea-40dd-87de-7d4e8b6bd91a",
+      "Product.Name": "Сок IL PRIMO яблочный 0.2",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "92cb903a-004b-4a0a-a517-2cc8b4e3d737",
+      "Product.Name": "Ranch sauce смесь",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "933540c4-aa80-4f69-a5ff-5a1ccc9b7736",
+      "Product.Name": "Паприка сладкая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "93365462-2f71-4a62-8401-eb3c3528935b",
+      "Product.Name": "Пакеты с ручками чёрные (10кг)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9359690a-61f3-49da-a1e3-9e1a050b5369",
+      "Product.Name": "Масло фритюрное Vegafray",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "93f019b9-7759-42ce-9237-e573260ccb98",
+      "Product.Name": "Перчатки синие медицинские (L)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "943c6790-bf23-4e4d-92d6-84db516ba040",
+      "Product.Name": "Картофель фри ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "947cc2e1-f2e7-4e2a-b576-4544ed9cc39c",
+      "Product.Name": "Тряпка для стола Микро фибро",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "949dd7de-8c4f-4219-9972-a8772a5e4921",
+      "Product.Name": "Мёд",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "962e1aef-6b3a-46fb-bc49-79dfbf58327d",
+      "Product.Name": "Мясо конина (той)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "965bd7e4-4e31-4755-a784-b584c43a3241",
+      "Product.Name": "Тряпка дельфин белый",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9670debf-22ff-453c-8689-9c22092375ef",
+      "Product.Name": "Контейнер для салатов универсалный (завтрак)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9706da4c-d88d-42af-8e01-ebb521ac90a0",
+      "Product.Name": "Колбаса копченая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "973baf30-5f7d-4044-bfa2-c8551bfa7950",
+      "Product.Name": "Наклейка для ICE TEA",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "975a8dae-9fb6-46f2-a4c1-35d4b6b9d3c5",
+      "Product.Name": "Sprite 0.5 ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9788bdbb-51bb-47ba-be75-a5945be07806",
+      "Product.Name": "Пакет для пицца  40 * 40",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "979a48bb-0ed3-4c5e-9718-3944142890f5",
+      "Product.Name": "Сырные палочки (Al-Safi)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "97f891cc-9242-4d5c-875d-4d82531a4e04",
+      "Product.Name": "Хоттабыч кофейный пломбир",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "986e1400-644d-46d7-b2e4-4855fb57745a",
+      "Product.Name": "Перец халапеньо  нетто 1,5кг",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9a296172-c66f-4b47-99cd-6897579800ed",
+      "Product.Name": "Освежитель воздуха",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9a5d8094-db8c-43b5-b91e-7446c922e62c",
+      "Product.Name": "Маслины Iberica  (нетто=150гр)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9b9d7938-618f-4824-ac80-004b4e0c89c3",
+      "Product.Name": "Майонез танхо",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9caefd74-df2f-4b50-b8f4-c4c50c677710",
+      "Product.Name": "Перец белый молотый OMEGA",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9cf736af-7e43-4d41-833a-dfd38c8c1559",
+      "Product.Name": "Chococream кг",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9cf8bbc2-abc9-44e5-bdc3-6c6a6c3c0502",
+      "Product.Name": "Бахилы",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9da2b279-55a5-4716-94bc-70e6ec6d9f7c",
+      "Product.Name": "Лимонный соус",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9db6fa45-8ad1-4a8e-97a4-974758763ed8",
+      "Product.Name": "Наклейки для напиок",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9e05c3cf-53d7-460e-989b-fd787c7fa660",
+      "Product.Name": "Стаканы одноразовые для соков (0.19)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9e3aecb6-6289-4e04-b6d4-4cdbff0b9cc7",
+      "Product.Name": "Приправа Вегета",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "9e619cab-87f0-4aa4-a5e4-0d646f9e3f7d",
+      "Product.Name": "Соус барбекю белый",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a01ca26b-be98-43a4-9d6c-8bdcfe5901a0",
+      "Product.Name": "Пакет полителиновый Маленький",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a0ba8b51-9045-40cc-8b01-c6c2179b9a54",
+      "Product.Name": "Гель для мытья посуды Ass",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a10cf546-50c4-4016-bb8d-f77757c0974b",
+      "Product.Name": "Лук белая королева",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a1d4fb4f-960c-4645-98c3-b91a20f47435",
+      "Product.Name": "Крупа манная для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a1f5633c-0526-4fcb-ad26-5b32795ba946",
+      "Product.Name": "Укроп",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a3339bf5-09d9-4f27-b6f9-cd00a0fbdbb9",
+      "Product.Name": "Сузма",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a41e1f52-a642-4afb-8d97-6d9ea442dd1e",
+      "Product.Name": "Вода из под крана",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a45e9522-8f85-41d9-8544-38bc63d03e72",
+      "Product.Name": "Уксус яблочный шт=0,330 лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a4aad1ab-23ec-43fe-aeff-fafab2ea2eca",
+      "Product.Name": "Наклейки для Coleslaw",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a4f35a8f-2022-4e28-87fd-0649128d95df",
+      "Product.Name": "Мясо говяжий Sherin (Chopar)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a56f3295-82c0-43c5-b1ac-abdc521217d2",
+      "Product.Name": "Тряпка для пола",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a5c9e96d-188c-4bc0-b8af-be9a7b0105c8",
+      "Product.Name": "Стрейч",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a5dd701b-1e04-4a29-b20a-e34defe7aa10",
+      "Product.Name": "Кориандр мелкая для персонала ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a641d0fb-868e-43fc-b047-fd89c3bc4982",
+      "Product.Name": "Баскет большой",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a744a183-e981-4ad1-9f30-4ba1cc3a924e",
+      "Product.Name": "Хоттабыч эскимо",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a795dace-3673-43d3-ad95-372c393d2295",
+      "Product.Name": "Скоба",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a7e057ba-cd39-4c79-938e-aae63d89e607",
+      "Product.Name": "Молоко",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a81c296a-7c19-452d-a9f2-71abc1b3207a",
+      "Product.Name": "Горчица джонская (мясной)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a8ed8d18-2372-4916-98ef-287eab5c2012",
+      "Product.Name": "Антижир Grass Azelit (спрей) 5лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a9202c65-8e9c-485c-85af-f449cb313aeb",
+      "Product.Name": "Горох русскый для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a920aec5-d528-444f-b894-07be3e510d1f",
+      "Product.Name": "Упаковки Лодочка для Hot Dogi",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "a965e0aa-3214-4d5d-a092-1b6ca546dfee",
+      "Product.Name": "Пергаментная бумага для пиде",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "aad59473-3bdf-4eb4-8a03-7f76ee346bbd",
+      "Product.Name": "Жусай",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ad8e879d-3146-4d79-8299-2791f53fca86",
+      "Product.Name": "Картон для 3х комплект (устки кисм *1)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ad8fe3a7-e712-4316-bc94-bef3ccd9ba92",
+      "Product.Name": "Пакеты с ручками (5кг)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ad9e814a-3717-4153-8825-f0a0334cbf49",
+      "Product.Name": "Игрушки (Мальчик) ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "aea821ea-da18-415b-a848-e457e5dc6a16",
+      "Product.Name": "Колбаса охотный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b06627a1-99c7-4a64-a42c-4a0408adb8c3",
+      "Product.Name": "Другие товары",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b0ee3320-4ab4-497e-aec6-c7add64fdc4e",
+      "Product.Name": "Соус Цезар Apitito",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b1d79e1b-0807-433e-875d-48448b931b4d",
+      "Product.Name": "Коробка сет Les Ailes 1 большая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b20f862b-af6e-4c2b-aa8d-67bb3fd9c8db",
+      "Product.Name": "Сок Лайм ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b2235fbb-841d-4e80-b380-a733fc065491",
+      "Product.Name": "Пицца сетка средный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b2ca287f-0917-4e15-ad6f-17eac4a52ac8",
+      "Product.Name": "Коробка с собой маленькая (Les Ailes)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b2ddc0fd-5efb-4534-b308-ca3eca63811c",
+      "Product.Name": "Соус барбекю черный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b3385c85-b5fa-4604-8d2e-94bfb9eae883",
+      "Product.Name": "Крахмал для Майонеза Les ailes",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b4c3d9ef-a9d4-4f73-ab58-7ec44aafc829",
+      "Product.Name": "Баклажка 0.33 л",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b5c71a31-8005-416c-9863-df8d027d3185",
+      "Product.Name": "Багет (нест)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b5f813ca-18b7-4c03-bd0f-5faa323094dc",
+      "Product.Name": "Лагман для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b622ee55-4af8-4064-b363-09e9939d4f44",
+      "Product.Name": "Маргарин Апитито 72%",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b63a4007-16a3-4cd0-9141-011791133288",
+      "Product.Name": "Шпажки маленькие",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b678ebf8-5c86-4097-a24c-4799e2003c51",
+      "Product.Name": "Кетчуп Astoria",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b6d0c433-0a4b-455e-9ed1-c0611f248e16",
+      "Product.Name": "Думба (баранина) для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b6ddbc17-4305-4531-a7fa-ac9cdc7cb090",
+      "Product.Name": "Наклейка для French соус",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b6fff03f-4572-44aa-8973-bb4a0709c087",
+      "Product.Name": "Нишолда ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b70eb6d5-b542-440a-90dc-7c2b35ee7614",
+      "Product.Name": "Кефир",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b73685f0-814b-410a-b259-c09650ea9116",
+      "Product.Name": "Стаканы Coca Cola (0.4) Chopar",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b7be8f16-786a-4d77-bb93-97cdd6768d66",
+      "Product.Name": "Кофе 3х1",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b8365267-4a62-4657-9e22-1046cc63d5b9",
+      "Product.Name": "Тарози 200кгли",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b957bb81-5101-4de2-b829-29232f7879a1",
+      "Product.Name": "Орбит White Bubblemint 14гр",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "b9dbf20c-193a-4ec2-976a-1a0e82dde65e",
+      "Product.Name": "Сыр пармезан",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ba5999f4-fd28-41d0-87ca-608fd0e22f94",
+      "Product.Name": "Соки Minions 0.125  (детские)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "bbae79de-19f8-436d-874c-a8bcbfa50bcb",
+      "Product.Name": "Крылышки куриные",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "bca5e4e6-dfd4-4023-943f-1694668e99db",
+      "Product.Name": "Мороженое шоколадное",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "bcb17030-688b-496b-89eb-e073e948e722",
+      "Product.Name": "Други товар",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "bd75f24e-c98f-4f62-b4e0-c66172ab9bfa",
+      "Product.Name": "Рулет (3) Шерин",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "be16fa1c-1769-45af-a1b3-4e10ed4fa484",
+      "Product.Name": "Щетка для пицца печ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "be20a70e-93f5-49d6-bcb2-a1c90f77c448",
+      "Product.Name": "Сок Ананас ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "bf771c33-2e69-4eaf-97f1-d7e7e692ff70",
+      "Product.Name": "Гел для посуды шт=5лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "bfaa0cfc-0bcc-4487-89d4-d0d80afb692a",
+      "Product.Name": "Пергамент Бургер  (кг) 40х35",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c0f4b7cb-9b10-422a-afc8-8fc5dfc5eaa7",
+      "Product.Name": "Гель для мытья посуды",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c124f6e2-9685-494e-8d5f-a7eba17b464e",
+      "Product.Name": "Сок Вишня ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c1b75438-c1cc-4f71-a278-d0a6a3790d49",
+      "Product.Name": "Пакет полителиновый Большой",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c35822c8-89ed-4a4f-a810-eab3721321dc",
+      "Product.Name": "Курица Броллер ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c4957376-ed94-4633-a80a-0901197e61fc",
+      "Product.Name": "Игрушки (Девочка)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c4af2fc2-92c7-40e7-9716-ff3a5499e757",
+      "Product.Name": "Хлеб Буханка",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c5326697-02ce-4c01-b858-fd92d9fd385c",
+      "Product.Name": "Чипсы Картофельные",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c59bb2a4-d103-4cc9-80fb-5fc8d74f7a70",
+      "Product.Name": "Чеснок свежий",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c5d1dcb1-0233-4136-8de2-5dce039f43e1",
+      "Product.Name": "Пергаментная бумага большая 40*40",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c5d97cdc-e0a7-48ad-8057-407d26e572cd",
+      "Product.Name": "Пончики с начинкой из малини и творожного сыра(Panna cotta)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c73ca1e2-52d2-4173-8933-88fbe491950b",
+      "Product.Name": "Лук зелёный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c7561f1c-b172-481d-a002-014aeb10bcb5",
+      "Product.Name": "Соль китайская",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c8524a92-2218-47ac-88d9-29d2be988282",
+      "Product.Name": "Пакет Полителеновый в кг",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c966ff4c-691a-4650-9bee-2ea736069a75",
+      "Product.Name": "Сливки сухие Ристора шт=0,5 кг",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "c99df8b6-8fc0-4109-9821-3edcf3fe4212",
+      "Product.Name": "Нитка для пиццы (1500шт=1рулон)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ca041245-c8e3-4d37-8f5e-a102d3931fda",
+      "Product.Name": "Упаковка 1чел (зубочистка+сальфетка+влажная)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ca4453df-3a0a-4fb9-8d9b-a7761d634f76",
+      "Product.Name": "Кофе Siperla шт=1кг",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "cb0a376b-414c-428d-acf3-995f4c2df673",
+      "Product.Name": "Кунжут (седана)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "cbbf5a9d-55b9-4a17-a4fd-95e2343d36c4",
+      "Product.Name": "Базилик свежий",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "cbd2176c-914d-4803-b576-52ec7c834c2a",
+      "Product.Name": "Сахар в пакетиках",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "cc07ee7c-950d-4462-94a6-9091fb4cc685",
+      "Product.Name": "Пончики с кремовой начинкой(Cookies)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ccd4a297-db5a-4d41-9841-147883990ee1",
+      "Product.Name": "Питьевая вода газированная Hydrolife 1.5лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ccdbaf90-9aff-4ab3-b274-58a48cc3fd7b",
+      "Product.Name": "Сок IL PRIMO апельсиновый 0.2",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "cd66cf8a-63af-44e0-b0c2-508eda1a5412",
+      "Product.Name": "Сиропы мохито Бар нектар  (0.75)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "cded2529-2c1a-4828-999a-c7624fc905f0",
+      "Product.Name": "Перец болгарский зеленый",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "cf126e6a-d028-49a3-9c42-b3592b02d125",
+      "Product.Name": "Кофе зерновой",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "cf343e66-0cbd-4542-9dc7-1132fcabe9f7",
+      "Product.Name": "Пицца коробка ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d03b0a71-993c-4e1f-93ee-f8e474ecf938",
+      "Product.Name": "Вакум пакет (0,5кг Ранч)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d0844bf2-58b8-41d7-b284-990eff806349",
+      "Product.Name": "Имбирь",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d1c08c67-14cf-474b-9957-a3b65302bfce",
+      "Product.Name": "Огурцы свежие",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d2363e9a-7ab7-4772-b103-727e88e04de4",
+      "Product.Name": "Руккола свежая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d24cb1cb-21e6-463e-a53c-32f7f6664d61",
+      "Product.Name": "Мицукан",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d273b0c8-d633-4317-b750-da4cadfb58b8",
+      "Product.Name": "Fanta 0.25 Бутилок NRG",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d2c00025-98d9-4991-bb69-a74687b50823",
+      "Product.Name": "Жандук",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d2c06037-8079-437f-a85e-7243f2f22ddf",
+      "Product.Name": "Бумага для чеков большая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d47bab3d-d7e8-4565-8dcd-b966d3149fdc",
+      "Product.Name": "Чай для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d4f20d0b-eeba-4949-b933-87b6adb4466a",
+      "Product.Name": "Пакеты вакумные для ПФ мясной 370*370",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d69b24f8-c5dc-4de2-9591-158bd173b54a",
+      "Product.Name": "Упаковки для салатов Les Ailes импортная",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d6b9719d-a3be-4206-b044-c2698c366d6d",
+      "Product.Name": "Fanta 1.5 ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d7876507-3b47-4b0a-841c-8425ecf2dbd4",
+      "Product.Name": "Гель для мытья пола 5л",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d7f8aa20-944d-411c-b9f2-b706e914c207",
+      "Product.Name": "Коробка для пиццы большая Big 40х40",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d8007e58-f226-463c-9ff5-746eebf9d8e3",
+      "Product.Name": "Ложки одноразовые",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "d97efa0b-3659-4690-baed-fb9016451f6d",
+      "Product.Name": "Гаримдори для халапеньо",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "da355473-b008-4f25-86cd-418b48835260",
+      "Product.Name": "Чили в саше",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "dadcb4e3-0476-416c-b2ed-9dd1d857f1e4",
+      "Product.Name": "Говядина Транч",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "dba7c515-4195-49e2-917e-c26e0a2b1151",
+      "Product.Name": "Перец болгарский красный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "dbd9f606-e381-4b39-952a-71a7e6f9e6d3",
+      "Product.Name": "Полотенце бумажное",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "de078a96-ca96-44ee-9e03-535f457f161d",
+      "Product.Name": "Упаковка Тостер Americano ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "de19084f-20a3-4420-8d45-ee0fa21a0642",
+      "Product.Name": "Мясо Говяжья (Биггер)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "de5d1f07-fa88-4188-acd8-44da53c1c4e9",
+      "Product.Name": "Стаканы Coca Cola (0.4) Les Ailes",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "de85ce04-0e55-421c-ae42-4d175ea02e17",
+      "Product.Name": "Коробка с собой большая (Les Ailes)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ded2f8fd-9386-49c9-b3c3-610124c09adb",
+      "Product.Name": "Нохот для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ded3e8e2-7ebd-4de0-b9bc-44f134ef1aae",
+      "Product.Name": "Антижир Grass Azelit (спрей) 600мл",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "df1a5464-4eff-4813-82d7-c08c558e1c6d",
+      "Product.Name": "Вакум пакет (2кг мёд)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "df2a44bf-9ff8-4513-85ae-53f88e8df68d",
+      "Product.Name": "Жидкий дым \"Костровок\" шт=0,500лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "df8a1145-a147-493c-899d-bcf0d55c3644",
+      "Product.Name": "Баклажан",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "dfa483b5-604b-4da2-a0ec-fd69972ae19c",
+      "Product.Name": "Примикс Coca-Cola 18лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e011e140-de8b-453b-88ef-ae6adf0061b9",
+      "Product.Name": "Панировка (талкон)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e0325de9-d1cb-478b-8ecc-fb0afd4d1a41",
+      "Product.Name": "Наклейки Les Ailes",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e07feee6-236e-487f-ad5d-def9d7632ae3",
+      "Product.Name": "Бумага туалетная",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e096106a-3e4a-4d79-b67a-3f4a8d419837",
+      "Product.Name": "Мясо Корейка Баранина",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e0d5ad96-75f4-447a-b016-5ec1f4cc622d",
+      "Product.Name": "Индейка Шерин",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e0e58423-aa24-4571-a862-927394381ca5",
+      "Product.Name": "Пончики с клубничным(Strawberry)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e1b8ecc3-7f27-467e-87e4-ff381255f2b9",
+      "Product.Name": "Вермишель для персонала",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e2477446-bd11-4842-9c91-a58f4eaf33bc",
+      "Product.Name": "Coca Cola 0.5 ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e31b529a-061f-4572-a05c-f217dc638604",
+      "Product.Name": "Шпажки большие",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e37a3592-561d-4bd5-921c-4ace8116506b",
+      "Product.Name": "Питьевая вода негазированная  10лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e37de85f-e50b-4030-be9c-649cede57be4",
+      "Product.Name": "Майонез для персонал",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e3acfbdd-e963-404d-ab8a-691cc7e617b3",
+      "Product.Name": "Упаковка Тостер CHILI ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e4cce8e3-8b11-4e57-854c-aeb621732fab",
+      "Product.Name": "Масло растителные 1лт для персонал",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e51b7a8d-79ff-4c9d-a443-9206f9b5280c",
+      "Product.Name": "Соус соевый Amoy шт=0,500лт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e5259a3d-5cbc-4217-9bc0-b4ae8802be4f",
+      "Product.Name": "Шприст",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e60eaa27-2533-409e-8111-bc45a04f7478",
+      "Product.Name": "Сок Смародина",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e63838cc-027b-4668-801c-6255211fa990",
+      "Product.Name": "Пончики с карамельной начинкой(Caramel)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e7158a7b-73e3-4ee6-898e-1808e415050a",
+      "Product.Name": "Стаканы одноразовые для Айс Ти (Les Ailes)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e7cd2f86-f219-494c-9cf3-837b1be67144",
+      "Product.Name": "Наклейка для кукси",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e851ec9d-c929-4498-be2d-b128c615ea61",
+      "Product.Name": "Чай Dilmah в пакетиках Черный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e8898653-2dea-493d-868f-0d6f5966da81",
+      "Product.Name": "Пакеты мусорные маленькие",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e8a042ca-e51f-4530-8a52-a45466280462",
+      "Product.Name": "Соль мелкая",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e8fcbccd-72e8-4e12-9f67-a7aff5a645af",
+      "Product.Name": "Маркер",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "e9ed6252-80f7-48ec-b3c2-2005d364d685",
+      "Product.Name": "Ручки (канцтовар)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ea0081f4-6ec9-4bbc-b519-c58ca79c45bb",
+      "Product.Name": "Контейнер для салатов (chopar new)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ea04470e-f881-4d1c-987d-0fbae42976b1",
+      "Product.Name": "Coca-cola 1л ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ea283ee6-576c-465c-bb13-bc1c6742f614",
+      "Product.Name": "Пакеты отрывные большой",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ead4cbee-1534-447f-b88b-68d8046af5df",
+      "Product.Name": "Чайная сода",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "eb3724d8-02fb-4c2f-b8a2-3b7be5de9cc8",
+      "Product.Name": "Яйца куриные",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ebd55b0b-15ea-4bc2-bba0-85fa3f0fb84e",
+      "Product.Name": "Ананас Консерва ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ebf8e3bc-f509-44f4-b6de-396e35b0eabd",
+      "Product.Name": "Хоттабыч банановый",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ec3ea344-169c-468c-96a3-e1d3e85ce14a",
+      "Product.Name": "Наклейки для салатов",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "eca8541c-9dd6-406a-9022-2b10bcb3a751",
+      "Product.Name": "Fry seasoning приправа для жаренных продукт",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ecabd957-df67-41e1-b49a-e4d963215d4e",
+      "Product.Name": "Горчица Astoria",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ecae9a58-ec72-42b1-a42b-22bdb2e37b89",
+      "Product.Name": "Пакеты с собой без печат 24*15",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ecec6332-e188-483f-9c96-cd03a6b33efc",
+      "Product.Name": "Грибы Шампиньоны свежые (не реазнные)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ee4f65b1-0d3a-4ab2-a6e3-5c93ca9b9977",
+      "Product.Name": "Футболка Coca-Cola",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "eeba0f40-1b86-4cb5-8100-5aaeb1f8798e",
+      "Product.Name": "Пакет для булочка",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "eee11359-db06-4317-9e2a-0bfa7a492162",
+      "Product.Name": "Стаканы одноразовые для брауни",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ef0762cf-b7b3-4b39-9784-3be56de7f44b",
+      "Product.Name": "Тетрадь",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "ef3bf401-c938-4f7e-b734-a139ed60b712",
+      "Product.Name": "Антибактериалные средство 300мл Natural Beauty",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f0120d2f-4b95-4cd0-b2e1-3e315b47ca3d",
+      "Product.Name": "Рулет (2) Шерин",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f097c3dd-2902-4878-9159-5091a4766cdc",
+      "Product.Name": "Огурцы маринованные (Базар)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f149818c-bf5b-491a-ae76-4e12270978f9",
+      "Product.Name": "Сыр фетакса (шт=0.4кг)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f17c0ae3-61f3-4494-ae86-025c0de64d33",
+      "Product.Name": "Антибактериалные средство для рук  5л ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f21e9001-394b-4f42-8de0-3b4275510ce8",
+      "Product.Name": "Помидоры свежие",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f2317859-ec78-4377-b882-df0314f76833",
+      "Product.Name": "Перчатки желтые хозяйственные",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f2a55e10-8ef5-4462-96d9-aa00b03ef33e",
+      "Product.Name": "Чай каркаде ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f4873bbc-2dd7-4683-a1c2-c437e12a4e2e",
+      "Product.Name": "Пакет для пицца  30 * 30",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f4bb50ea-c5fc-41b9-b92b-0c5449c1c872",
+      "Product.Name": "Сок сочная долина 0,2 (детские)",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f4f6e79e-be1b-4bb7-b7fa-18e00c2d569e",
+      "Product.Name": "Чеснок очищенный",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f5eb11bb-4e12-484e-873a-6d6682e71606",
+      "Product.Name": "Мята",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f6b10a5b-6e2e-4074-aeec-a3dcda718af3",
+      "Product.Name": "Вилки одноразовые",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f7e14bc7-d190-497c-a813-7624eb915c2f",
+      "Product.Name": "Сок Персик ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f8124b78-60c7-4c96-a098-9b406f6c418c",
+      "Product.Name": "Мороженое сливочное",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f861189a-50a0-43c5-a963-65a7805187ef",
+      "Product.Name": "Пинтуза ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f8670ee4-e9e8-4433-a763-db3f8ab3c7ba",
+      "Product.Name": "Жир говяжий для ПФ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f86d0bb3-2af4-49c0-bfe3-c995b65fc48d",
+      "Product.Name": "Масло для майонез",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f88e16e8-7fc1-4f41-8612-03a5062de341",
+      "Product.Name": "Картофель фри по деревенски",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "f916eb82-2360-45db-bd9d-b2f1548be67c",
+      "Product.Name": "Упаковка Тостер BBQ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "fa697102-e60d-4279-9c9b-13ced543fad3",
+      "Product.Name": "Розмарин ",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "fa89fe1c-e4ea-4de5-8fd8-cf75272a83d2",
+      "Product.Name": "Coca Cola 0.25 баночные CAN",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "fc4d6511-0a3f-4e5a-adf1-a9f527217ebd",
+      "Product.Name": "Метла и совок",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "fcbb0073-5d6e-442f-9b49-b86fba336567",
+      "Product.Name": "Бумага А4",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "fe091c28-8153-41c9-b34a-4e3d002eb697",
+      "Product.Name": "Телевизор",
+      "Product.Type": "GOODS"
+    }, {
+      "Product.Id": "00c08cbd-b9c4-4101-a3db-b0b4cc31b8b5",
+      "Product.Name": "ОХОТНИЧЬЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "014113f0-d557-4d09-a942-296fd7fd3dd6",
+      "Product.Name": "Стрипсы,  3 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "01e6f6ee-8f72-41af-8a6b-121f04294768",
+      "Product.Name": "Экстра сыр",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "02121393-da78-4d3a-a8fb-47c5cd2e2b86",
+      "Product.Name": "Лонгер рингс",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0291abb9-1fd1-46a1-9711-44200bb74b03",
+      "Product.Name": "Халапеньо бургер",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "02de0e6a-770f-4e12-a7f3-5f608ee41492",
+      "Product.Name": "ГРИБНАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "02de4e5d-41d6-481d-8dee-271c2d7e70ef",
+      "Product.Name": "МАРГАРИТА 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "037f8a43-9fa9-46bc-9231-c1fc4a52ad04",
+      "Product.Name": "50/50 ЖУЛЬЕН 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "04056a1d-c553-4d04-87b5-86963144b45b",
+      "Product.Name": "ХАНСКАЯ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "04485d03-b6dd-4025-823b-6760d5cf6f4d",
+      "Product.Name": "КРЫЛЫШКИ В СОУСЕ CHOPAR",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "04487d0a-36d2-41ee-bf65-1046b5c2d87a",
+      "Product.Name": "КУРИНАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "054cba76-74ff-4cf8-935b-d20151786aeb",
+      "Product.Name": "Лонгер24",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "05a8ebaf-6922-41c4-bf74-27e8555ccdf8",
+      "Product.Name": "Орбит Зимняя Свежесть",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "05cb4e99-ce3b-46b3-93c1-4eecca45600c",
+      "Product.Name": "Чикен чиз",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "05e6cae7-2fb1-43cd-ade0-33ed68df845a",
+      "Product.Name": "Соус Барбекю",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "067733a0-49b2-4830-a658-29ec4f13f84c",
+      "Product.Name": "Стрипсы, 11 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "067a7e39-2213-4c5e-80db-c9c39af023dc",
+      "Product.Name": "БАЙРАМ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "070afeeb-1d82-4f77-8c8a-260b56bcb998",
+      "Product.Name": "50/50 ХАНСКАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "073d74cf-24b9-4eaa-b3a2-80d4948337b7",
+      "Product.Name": "Сок Апельсин 1 л",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "07466f9b-9ec6-4b8e-9f7a-77b94d1c0617",
+      "Product.Name": "БАЙРАМ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0832ead6-f3d5-40a6-9430-2b87a2216fa5",
+      "Product.Name": "Острые Стрипсы, 15 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0841d3da-5348-4b80-93c7-46652da5fd30",
+      "Product.Name": "50/50 МЯСНАЯ 40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "08ed14d0-9e8d-4bfd-9846-d86c773ef475",
+      "Product.Name": "50/50 БАРБЕКЮ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "09471f5f-eea9-4549-a2a2-4b155663713d",
+      "Product.Name": "Чикен стикс 5 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0a32b880-1eb4-431e-8b5b-2d9a241e4767",
+      "Product.Name": "МАРГАРИТА 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0a3f1b42-7530-45a8-b30a-987a76f9cea5",
+      "Product.Name": "Do’stlar 4х",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0be5f7d5-2424-4c6d-b1a5-350909a048e6",
+      "Product.Name": "Медальон, 1 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0ce92ef2-1f75-439f-b957-b715aa16cb0b",
+      "Product.Name": "СЫРНАЯ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0d7f9174-d1df-4217-9848-0e3db3aefc16",
+      "Product.Name": "БАРБЕКЮ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0dbed7e3-7b48-4aee-965f-47c5f1d4a09d",
+      "Product.Name": "50/50 ГРИБНАЯ 40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0dce4f85-9711-4864-b21b-5b1742d7fb8a",
+      "Product.Name": "Fanta 300",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0dfb964d-6853-43ef-ae14-7d6cff9e7497",
+      "Product.Name": "50/50 ДВОЙНАЯ ПЕППЕРОНИ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0e5786a0-426d-4bfa-9a57-81781f12928b",
+      "Product.Name": "ДВОЙНАЯ ПЕППЕРОНИ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0e837783-949f-42ff-858c-edca6ddc51ec",
+      "Product.Name": "Скул сет Кола",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0eae2fe5-9d17-402c-b2b3-6057b5131965",
+      "Product.Name": "РОСТБИФ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0f198c25-69e2-48f0-a5fd-ba2d508737d8",
+      "Product.Name": "Акция Пепперони 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0f634d8d-e851-4f97-b814-21231121c79b",
+      "Product.Name": "Лестер халапеньо",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "0f834698-acd0-444c-b9b7-eb9e5e0d4508",
+      "Product.Name": "50/50 РОСТБИФ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "1026f480-ae1c-42e8-9274-d4b2b84f6748",
+      "Product.Name": "Эспрессо",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "103e7c2b-1e43-4a3a-87f7-12b587cc6803",
+      "Product.Name": "FANTA 1.5",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "106e5ff5-a1ad-4086-8951-b0edc435100c",
+      "Product.Name": "Классик сет Кола",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "10824811-0af0-4365-871f-9361aa90833f",
+      "Product.Name": "Острые крылышки,  3 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "118dd099-5b1a-4a50-9c95-f0b1f9042e84",
+      "Product.Name": "БАЙРАМ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "12016f29-b575-4ebf-b024-67eb813d29ec",
+      "Product.Name": "50/50 МЯСНАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "12c68590-7196-4feb-834f-e05fde3a4608",
+      "Product.Name": "ХАЛАПЕНЬО 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "132291d9-50b0-40bb-9a35-b359970680cc",
+      "Product.Name": "Американ лестер",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "139569b2-7404-4980-ab9b-f9f0deb504f1",
+      "Product.Name": "50/50 ГАВАЙСКАЯ 40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "13b2ce50-32b3-47d8-af61-567218ff8513",
+      "Product.Name": "COCA-COLA BOTTLE",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "1427c1b6-0e58-4c7a-b45e-3aedab98c41a",
+      "Product.Name": "25 ШОКОЛАДНАЯ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "145a0f99-8e5c-4231-814c-8e8ad8a19aab",
+      "Product.Name": "Texas",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "1488f7c1-9fcb-4f0b-bdac-4af9a8c22fa9",
+      "Product.Name": "КОМБО 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "14d34dd8-9f6f-4551-a428-69f0c97ebb6a",
+      "Product.Name": "Кидс бокс лонгер Д",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "1550b3d4-c1ab-49e5-af6f-497b5fa70ef3",
+      "Product.Name": "Мороженое Банановое",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "158b2872-a4b9-4cbd-a7ca-6cdde214f08c",
+      "Product.Name": "Орбит Баблминт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "15929e5b-dadb-45c7-8007-7b504671349c",
+      "Product.Name": "Сезам",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "163b56cd-d91e-4d11-915b-4da2c5773406",
+      "Product.Name": "СНЕК СЕТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "1693278d-2442-4b1b-b300-aa7a6f542b94",
+      "Product.Name": "ЖУЛЬЕН 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "16950d87-9068-4256-bd20-110d1d1c34e4",
+      "Product.Name": "50/50 ПЕППЕРОНИ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "1764975b-24a6-447a-a7db-88f20d4ef29d",
+      "Product.Name": "Острый Do’stlar 1х",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "195fe86e-4443-4e07-b8b9-a33c1bd87288",
+      "Product.Name": "ВОДА MONTELLA 0.33",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "1a646b29-4628-4fdf-8d96-45eec887aed3",
+      "Product.Name": "50/50 ПЕППЕРОНИ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "1cec2119-7baa-4b7d-b46d-f2adae74da29",
+      "Product.Name": "50/50 БАРБЕКЮ 40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "1f1705ae-621e-4369-88fc-b196f6b33187",
+      "Product.Name": "50/50 ЖУЛЬЕН 40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "1f7060b0-8984-4e51-b466-87cd244e50ca",
+      "Product.Name": "50/50 ПЕППЕРОНИ 40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "1ff85b51-6f00-4557-9150-2f415b2a3976",
+      "Product.Name": "Cola",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "21456687-73b2-4b69-a0be-4f63a2d8009c",
+      "Product.Name": "Айс кофе милк",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2164e457-6e39-4fd7-bfcf-357fe9778415",
+      "Product.Name": "Острые крылышки, 15 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "216622b4-0689-487a-876d-f3707456408a",
+      "Product.Name": "Caramel",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "223412f8-1774-4fff-a14e-8072c0512ab2",
+      "Product.Name": "50/50 МАРГАРИТА 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "22b1966f-dcac-4078-9aac-0531d13c372a",
+      "Product.Name": "Соус Терияки",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "23627b4f-008c-42d5-be94-d0f6eaf187f8",
+      "Product.Name": "МАРГАРИТА 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "245e1c06-ec01-47cb-b445-f4029c6da4f4",
+      "Product.Name": "50/50 БАЙРАМ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "24647879-91e4-4323-9a86-36dbf9225ae2",
+      "Product.Name": "Кидс бокс лестер Д",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "24712730-849a-471d-98aa-6ed95eb5e023",
+      "Product.Name": "Мороженое Фисташковый пломбир",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "24a3ea42-0ec7-4b09-a7ad-71d60c605cd8",
+      "Product.Name": "0.2 СОК МУЛЬТИФРУТ СОЧНАЯ ДОЛИНА",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "24b8b50e-e0a2-4004-afa5-5d9adee7c4f5",
+      "Product.Name": "50/50 МЯСНАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "258710e3-33eb-4769-a0bd-28115006a7d1",
+      "Product.Name": "Сингер",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "26df6cab-acc9-4d35-9677-63b70a8bbdbd",
+      "Product.Name": "FANTA 250ml",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2750e875-efa1-42db-83fd-548b50812f6e",
+      "Product.Name": "50/50 ГРИБНАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "28737aaa-f9dc-4ee4-953a-72c1cdb5a00a",
+      "Product.Name": "Nutty cream",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "29928e5a-6ebe-47a7-a09a-f36c6cb022d9",
+      "Product.Name": "СЕТ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "29da7529-8d4a-45fd-ac7d-500b0944206d",
+      "Product.Name": "Мороженое Эскимо",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "29e1d050-4b5e-49ef-b573-897239d324ee",
+      "Product.Name": "Coca-cola 0.5",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "29e30002-505a-4dda-9ac9-2f2b85c644a2",
+      "Product.Name": "Sprite 500",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "29f2fd83-96df-4296-a2f6-834db0466e64",
+      "Product.Name": "0.2 СОК ЯБЛОКО СОЧНАЯ ДОЛИНА",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2a326fef-335b-4cb2-acfb-df6e833ec9aa",
+      "Product.Name": "ЖУЛЬЕН 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2b1c82d9-682c-428a-85be-126504460d5e",
+      "Product.Name": "1.5 COCA-COLA",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2c4ead8e-d4f5-48fb-8d51-f4093fa27eae",
+      "Product.Name": "СОК АБРИКОС 1.0 СОЧНАЯ ДОЛИНА",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2caea2a8-eff6-4650-9f0e-32cb42a65ff6",
+      "Product.Name": "50/50 ЖУЛЬЕН 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2cc5d665-f25e-4edc-8826-ead870f147f3",
+      "Product.Name": "ПЕППЕРОНИ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2d4cb4ee-6e1e-4528-8b31-96a5b808b711",
+      "Product.Name": "50/50 КОМБО 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2dd71fe0-ce25-46e0-a682-150b81c453db",
+      "Product.Name": "Хлеб Мангал",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2e02d99a-962f-4d9d-91e1-93a882d2889c",
+      "Product.Name": "Крылышки, 11 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2e7c3167-4e33-435d-bb8d-4a20f73a0f82",
+      "Product.Name": "БАРБЕКЮ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "2f5f9ca9-cb5e-47a3-bd9e-1dea8d7ccfc7",
+      "Product.Name": "РОСТБИФ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "3067edb0-b825-4aff-b92d-eb5724292f36",
+      "Product.Name": "Кетчуп ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "306a12e3-2e82-4601-93b0-961604781e42",
+      "Product.Name": "50/50 КОМБО 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "30a5f537-5277-43ad-a364-58ab21036334",
+      "Product.Name": "КОФЕ РАСТВОРИМЫЙ, 3 В 1",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "332990b3-34ba-4b85-b562-e3c03ee843b0",
+      "Product.Name": "Коулслоу",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "335f871b-ee98-445b-95aa-62157c1cb9f9",
+      "Product.Name": "50/50 QUVVAT 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "33f58528-051e-4252-9e99-2d92158115ef",
+      "Product.Name": "ГРИБНАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "344f2220-0af8-4002-b33f-8cd620b71d41",
+      "Product.Name": "Strawberry",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "359e0d0a-c959-4d7f-b9b2-ca7aeb8f5116",
+      "Product.Name": "ГАВАЙСКАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "35f0cc15-8afe-45c2-a192-a8dcf34a2b68",
+      "Product.Name": "SPRITE разлив 500",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "366eb14c-4eb9-43e2-b92c-c867d6618882",
+      "Product.Name": "Булочка Большая",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "36932632-9d93-4175-b436-4f1e0a3176f6",
+      "Product.Name": "50/50 ГРИБНАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "36bbc8c2-f8bc-4a40-a25d-fae99a2f955f",
+      "Product.Name": "Картошка по-деревенски Б",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "36dcc847-009c-425b-ae8e-d5c99061a6f8",
+      "Product.Name": "ХАНСКАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "3758ecec-431d-49f6-801a-1f33fd53631e",
+      "Product.Name": "Куриные наггетсы, 3 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "3809e16d-4749-4067-b4b3-00aba77767ad",
+      "Product.Name": "Острые крылышки,  7 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "38aad507-a531-4b3b-92db-9ac532d41667",
+      "Product.Name": "ОХОТНИЧЬЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "38bc9ef1-445b-4a03-8bef-9521e5410397",
+      "Product.Name": "КОМБО 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "38f4e21e-6bed-4296-b27d-7654408ded7b",
+      "Product.Name": "SPRITE 1.5",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "393fab7c-f7c5-4955-aa4b-53b659d4b6b8",
+      "Product.Name": "СЫРНАЯ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "3a0eb32a-81fd-46a4-bc20-06d2e3c44276",
+      "Product.Name": "ЖУЛЬЕН 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "3a139a35-dbed-4cf5-a16b-b6781ec6729d",
+      "Product.Name": "Айсти",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "3af0b2b1-9016-4803-a541-ac2ff3024593",
+      "Product.Name": "СТАКАН БУМАЖНЫЙ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "3beeab3f-adc3-4aa9-87b1-a7bd329b3281",
+      "Product.Name": "ЧАЙ ЧЕРНЫЙ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "3cb224ab-f342-4cf3-8822-7afc7839cc4c",
+      "Product.Name": "СЕТ МАЗЗА",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "3ddc8bb5-6672-4bb2-a345-f6ca6b6fc793",
+      "Product.Name": "Чёрный чай с лимоном ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "3e0ec502-2f23-4e59-be09-d6a1f3167880",
+      "Product.Name": "QUVVAT 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "410bdbb8-1d73-4c3d-a0cd-9891abcca778",
+      "Product.Name": "FANTA 1.0",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "41122e12-12a2-473a-9e37-2d9c29f6b10d",
+      "Product.Name": "Острые Стрипсы,  3 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "41497d7e-fe1c-4252-92d9-905d914835b1",
+      "Product.Name": "Куриные наггетсы, 5 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "416af1a4-6c30-45a6-8ba6-8a4557d0ec81",
+      "Product.Name": "ОХОТНИЧЬЯ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "42a7b5ee-07aa-4b7e-a8f9-0b6d6d3d3def",
+      "Product.Name": "Panna cotta",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "42d43f92-b1fd-4ea5-87f9-37a06193172d",
+      "Product.Name": "Орбит Зимняя Свежесть",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "444c1c9e-0bbb-4596-b847-202c30b52a6b",
+      "Product.Name": "Орбит Сочный Арбуз",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4462223d-ca3d-4307-a1bf-818b40882268",
+      "Product.Name": "КОМБО 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "452dc821-c5b0-45f3-9fd4-02f34ac90330",
+      "Product.Name": "50/50 БАЙРАМ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "46258075-a42a-4532-86e8-f0f2fd89a35c",
+      "Product.Name": "Стрипсы,  7 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "46542248-b22e-42ab-a83d-3e73cbb40e70",
+      "Product.Name": "Латте",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "46c4bdf3-e09e-45ab-b8e6-45e0c37f9d63",
+      "Product.Name": "ЖУЛЬЕН 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4773f089-985c-45c4-be12-33a0bcb39352",
+      "Product.Name": "БОГАТЫРСКИЙ СЕТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "493747eb-63df-4ce8-8ed3-418d75e7ee3f",
+      "Product.Name": "50/50 ГАВАЙСКАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4949c705-6bd3-4c0b-a003-07ea0dbcb42f",
+      "Product.Name": "МАРГАРИТА 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4a21d856-820b-465c-86ee-27fddd9678f8",
+      "Product.Name": "СЫРНЫЙ БОРТ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4a3ec85e-3369-4a36-ad9a-4a3700a7821b",
+      "Product.Name": "СЫРНАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4a4113f0-9ec2-4801-9315-30d87f316369",
+      "Product.Name": "Биг сет Кола",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4a4f3ce2-c81e-4964-93d8-d5f375afb4c0",
+      "Product.Name": "Комбо сет Б",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4b6a7c40-f24f-48ff-baf5-4548c56f87b9",
+      "Product.Name": "ЛАЗЗАТ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4bd14513-2c13-44fe-85e4-d017e17683ba",
+      "Product.Name": "50/50 QUVVAT 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4c1def75-2b3c-4f02-b58c-6d6488f7416c",
+      "Product.Name": "50/50 БАРБЕКЮ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4c39097e-0891-488e-8e03-c1df0987f1a1",
+      "Product.Name": "Лонгер",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4d03fcbb-418a-4de2-981c-67d039f0d519",
+      "Product.Name": "Классик сет",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4e321b8d-b6c8-4e5d-adb2-fe4d194dd45b",
+      "Product.Name": "КАРТОШКА ФРИ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4e93ca45-5777-4e99-b7b0-6a9ff5fa6be3",
+      "Product.Name": "ЖУЛЬЕН 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4ec1791c-117b-40ab-9951-60e47a31386e",
+      "Product.Name": "КУРИНАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "4f210137-06d3-443f-a571-45e3be34a843",
+      "Product.Name": "КУРИНАЯ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "50eb8bf9-8596-4478-8773-327348ce4c9d",
+      "Product.Name": "Лонгер чиз",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "51b075bf-01f8-45a4-90c4-e7d55bfde351",
+      "Product.Name": "Coca-cola 300",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "53fab127-b597-439e-88a9-fd4df98a0bfa",
+      "Product.Name": "SPRITE BOTTLE",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "547759bb-b861-4801-ad4f-c06a716a4e66",
+      "Product.Name": "ОХОТНИЧЬЯ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "547b18a5-2488-45ab-80f6-fdcbc2f789cf",
+      "Product.Name": "Мороженое Пломбир",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "54dfeec8-9c49-48b6-b97d-34d055b38ea7",
+      "Product.Name": "Скул сет",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "54fb1ab8-ce2e-478d-a604-cda8b1b1180b",
+      "Product.Name": "QUVVAT 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "55155041-5e4e-4a2a-bb0e-4be0620193c3",
+      "Product.Name": "Зелёный чай с лимоном ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "5519eee0-e527-4074-bb24-04deec44bb7b",
+      "Product.Name": "ГРИБНАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "58bfb308-acd0-494a-a257-ffdbf0496b18",
+      "Product.Name": "ХАНСКАЯ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "5adace73-9c61-44e0-824a-2545cb2d7710",
+      "Product.Name": "СЫРНАЯ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "5b63ac8c-f572-4223-9658-58c0818ddb2e",
+      "Product.Name": "КОМБО 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "5be166c5-3527-41ee-b52b-55128b3acbc1",
+      "Product.Name": "Sprite 0.5",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "5c227e95-1abc-4d33-b716-f3effb650c65",
+      "Product.Name": "FUSE TEA MANGO VA ANANAS 0.45",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "5fd4006b-5b31-488f-acaa-e1fad1de8d41",
+      "Product.Name": "МЯСНАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "6066639d-0249-4d0c-b1d3-6b7669943b0e",
+      "Product.Name": "ГРИБНАЯ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "6094ecd5-5d93-4750-987a-c82a9c67fb95",
+      "Product.Name": "Орбит Баблминт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "612e0c86-1ede-4cb8-9e93-40a8222623ba",
+      "Product.Name": "50/50 ДВОЙНАЯ ПЕППЕРОНИ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "61df63ae-7d14-4bab-8074-229223da21eb",
+      "Product.Name": "50/50 СЫРНАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "61f45457-ac19-4890-ac48-5c83165e513a",
+      "Product.Name": "Чикен корн",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "62ae3f0d-3e2a-4651-ae17-7c247b1036d5",
+      "Product.Name": "Кидс бокс лонгер М",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "632e704b-0bc7-48e0-9292-bd409b513392",
+      "Product.Name": "ПЕППЕРОНИ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "644daeb3-596d-4bfe-8ec6-bc05a916b7e2",
+      "Product.Name": "Биг бокс",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "66134658-54ea-4a48-865d-266c11c089c2",
+      "Product.Name": "посмикс фанта 500 мл",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "6669289a-c3b7-4dd6-92c5-71f32d0684e0",
+      "Product.Name": "Американо",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "676c74fd-a6c9-446a-a06b-371aa579fba0",
+      "Product.Name": "ПИДЕ С СЫРОМ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "68258848-0b6a-4392-9345-c78c2f1e1951",
+      "Product.Name": "ДВОЙНАЯ ПЕППЕРОНИ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "69a03f7e-7010-47d4-b40e-88cdc9647719",
+      "Product.Name": "ПИДЕ С ФАРШОМ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "69c4ade9-e091-49d3-8514-3ff7b9753229",
+      "Product.Name": "ГРИБНАЯ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "6d03c6d5-2519-49a3-af42-45474bf495ad",
+      "Product.Name": "50/50 БАЙРАМ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "6d09d884-4479-42c4-8bc7-c6f15d3875b4",
+      "Product.Name": "Лестер чили",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "6d7e33f7-b9fa-4a2f-87ae-96adfd3176aa",
+      "Product.Name": "ХАНСКАЯ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "6dcc4167-7cb9-4da0-a5da-e069e83eec2f",
+      "Product.Name": "ДВОЙНАЯ ПЕППЕРОНИ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "6f9653a8-8574-46b4-8602-175e1be48225",
+      "Product.Name": "Комбо сет Б Кола",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "6f9ff10b-31ca-4802-8666-1c57fa1f75c7",
+      "Product.Name": "Акция Сок Up 0.125",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7362943a-eb54-4cff-92da-61c35866eade",
+      "Product.Name": "СЫРНЫЙ БОРТ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "73b31900-17df-431f-8898-85a4c448589c",
+      "Product.Name": "СЫРНЫЙ БОРТ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "73d5a7a7-93fb-4dcd-b3ac-027aec224caa",
+      "Product.Name": "ГАВАЙСКАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "742994b5-80dd-4f7b-a36a-fa65ccc8a182",
+      "Product.Name": "0.2 СОК ПЕРСИК СОЧНАЯ ДОЛИНА",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "750f6d10-9141-4ba1-9ef3-bdaa3f69804c",
+      "Product.Name": "Куриные шарики, 5 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "75e28cd7-54af-4adf-8c3f-35b88a896090",
+      "Product.Name": "СЕТ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "75f1726d-3f29-49a6-b184-aea2f6497b2c",
+      "Product.Name": "ЧИЛИ СОУС",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "75fefb2a-1bd5-4f47-86a1-b96bdbcf23dd",
+      "Product.Name": "посмикс кола 500 мл",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "76a35c40-2866-43a6-9e95-2825abb58314",
+      "Product.Name": "Куриные шарики, 3 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "76e5610c-a37d-4893-8771-2f2c110b4cb4",
+      "Product.Name": "50/50 ХАНСКАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "77700e16-af44-44d6-99ba-6022110b9b42",
+      "Product.Name": "Chopar Special",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "77f7f3dd-fc58-488f-89e4-d039b833cf1c",
+      "Product.Name": "ХАЛАПЕНЬО 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "79507d39-666b-4c6a-8edb-95a758ffecc5",
+      "Product.Name": "50/50 КУРИНАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "797669a1-1c99-41a7-bd4c-ed5e4323a27b",
+      "Product.Name": "ХАЛАПЕНЬО 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7a24b080-cfba-4963-ba5d-d3897b1a6ed6",
+      "Product.Name": "Сок Банан-яблоко 1 л",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7a3781b8-c77f-4a40-ab0a-fcebd36462d3",
+      "Product.Name": "ГАВАЙСКАЯ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7c5a216c-8d53-4404-a8fc-59ca8328f93a",
+      "Product.Name": "Фри баскет",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7cb711af-31f6-4b8a-a779-9e24c75e2d09",
+      "Product.Name": "Сок Персик 1 л",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7d47c794-8042-451f-b399-2bd51c7ec200",
+      "Product.Name": "50/50 СЫРНАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7db9b6a9-46be-4ab0-99f2-6f758e881b61",
+      "Product.Name": "БАРБЕКЮ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7ddabf47-571a-4771-bb60-23f58315ddfe",
+      "Product.Name": "Кидс бокс лестер М",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7e2ee67e-e275-4a34-8c4d-c828e337a50f",
+      "Product.Name": "50/50 СЫРНАЯ 40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7e510970-dba5-4c8a-b460-efe9055b807a",
+      "Product.Name": "COCA-COLA ZERO SUGAR BOTTLE",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7e8b9cf2-255a-4eab-942e-5b25b83a0ce1",
+      "Product.Name": "ХАЛАПЕНЬО 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "7fb33f57-3726-4009-8101-7b2e9d281538",
+      "Product.Name": "КУРИНЫЕ ПАЛОЧКИ С СЫРОМ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "801daabc-dab7-437a-8848-0beb9a9620a2",
+      "Product.Name": "Лестер сет Кола",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "806a7265-5f43-4ac3-8dc0-bc8a26146a37",
+      "Product.Name": "ГРИБНАЯ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "81327d71-e90b-4391-9613-eafc16edf0ea",
+      "Product.Name": "Акция КУРИНЫЕ НАГГЕТСЫ 9",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "81d3f7d0-9268-4820-b893-40e62e5fa14f",
+      "Product.Name": "МАРГАРИТА 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "824d91a6-0167-42b0-b555-ad2b37685701",
+      "Product.Name": "БАРБЕКЮ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8253c638-2f39-4b5e-bcd9-37345085d92b",
+      "Product.Name": "МЯСНАЯ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "82a328a1-bc28-4714-86f3-824fb3d2679e",
+      "Product.Name": "ДВОЙНАЯ ПЕППЕРОНИ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "82c712ae-a25d-4abc-a851-70e2361a37b1",
+      "Product.Name": "Барбекю лестер",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "83094528-f2df-4924-9b36-b489b7510e12",
+      "Product.Name": "Картофельные шарики с сыром, 11 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "83db54ab-58b5-44de-87aa-7b8dd954059d",
+      "Product.Name": "ХАНСКАЯ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "84489f11-50c8-4ab1-b334-c79212d94a6c",
+      "Product.Name": "КУРИНАЯ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "845476f2-70c1-4ab6-af84-f13ca91baa3b",
+      "Product.Name": "Острый Do’stlar 2х",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "84921052-da93-4df8-84dc-5bb3b0208d61",
+      "Product.Name": "ДВОЙНАЯ ПЕППЕРОНИ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "85a6d9f5-265e-461f-b8a1-ca4a8257a212",
+      "Product.Name": "Майонез",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8642d3be-4e3e-4aef-a88a-cfd565ef07d3",
+      "Product.Name": "ГАВАЙСКАЯ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "873a5d47-bd2a-4a71-93a8-57a71efdf332",
+      "Product.Name": "Fanta 0.5",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "87c54cb5-82ce-44df-b336-cb77bdbdb687",
+      "Product.Name": "БАРБЕКЮ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "884d52f5-548e-4360-ab0d-af4ebcdd7b5d",
+      "Product.Name": "СОК МУЛЬТИФРУКТ 1.0 СОЧНАЯ ДОЛИНА",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8876ae34-a072-44d6-9576-93009201b81d",
+      "Product.Name": "Bonaqua 0.5",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "89c6f8e3-3040-4268-8fa2-d9b40e715525",
+      "Product.Name": "Дабл чикен чиз",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8a98c9ee-14ca-4769-b7fc-c227b439169d",
+      "Product.Name": "Бигер",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8b988bcd-b144-4c6c-884b-0f12f2944292",
+      "Product.Name": "ПЕППЕРОНИ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8c904fe4-abba-4722-af62-78efb85897b8",
+      "Product.Name": "50/50 РОСТБИФ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8ca86aeb-6dcd-4a33-8357-6e79eaa21690",
+      "Product.Name": "Острый Do’stlar 4х",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8cd6be9a-20c0-4e80-b1d3-0c4eb1e32ea6",
+      "Product.Name": "Sprite 300",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8cd97f86-cccd-4731-b324-f8d8f7c7cb48",
+      "Product.Name": "Сок Вишня 1 л",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8e3ff6b2-5309-4bce-8f6a-284829629055",
+      "Product.Name": "Острые крылышки, 11 шт ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8f227d3e-27a1-4908-b82a-6e09eff7a159",
+      "Product.Name": "Мороженое Шоколадный пломбир",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "8f867930-2808-49e3-81e8-cc730f8e7335",
+      "Product.Name": "Греческий",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9050f1dd-2cfa-4ec0-9926-6461304cc0ed",
+      "Product.Name": "МЯСНАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9269ea6d-6fc3-44f9-9585-2c59d4ef45fc",
+      "Product.Name": "РОСТБИФ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "930a2610-d7bd-45e6-8a99-a3f31be7ed0f",
+      "Product.Name": "Халапеньо",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "93f1489e-c63f-4e29-b6c0-96c84fb53f58",
+      "Product.Name": "Хот-дог",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "94412ba1-5c52-4ce2-b4cc-6299a45ee75d",
+      "Product.Name": "СЫРНАЯ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9457564f-10d2-471e-be4a-d97d584f928b",
+      "Product.Name": "Классик",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "95b21a8d-2672-4794-a74c-0597f5ec17db",
+      "Product.Name": "50/50 КОМБО 40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9683b5ae-1389-4df2-ab5f-7f5eae88f370",
+      "Product.Name": "КУРИНАЯ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "96c76f38-6c4d-4d46-8b50-7360ac882bae",
+      "Product.Name": "ХАНСКАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "98124a00-9e78-44b2-b62f-cc5274e2c0e6",
+      "Product.Name": "Сок Абрикос 1 л",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9869f10f-1622-46e1-aa8a-019db16f27fd",
+      "Product.Name": "50/50 ГАВАЙСКАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "98f50026-6400-4e26-917c-e229fcd25c8c",
+      "Product.Name": "50/50 МАРГАРИТА 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "991f7b2a-083e-4d56-b2f6-c7df55505caf",
+      "Product.Name": "Мохито",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9afd5499-2d59-40cd-8a9d-79eb78c56143",
+      "Product.Name": "Лестер чиз",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9b0200ec-21b2-4ac9-b22a-35ea482c0f57",
+      "Product.Name": "Do’stlar 1х",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9b22f6d8-0199-4698-ac29-19e2307e0320",
+      "Product.Name": "ПЕППЕРОНИ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9be1998f-b344-4744-bc67-057691ce5350",
+      "Product.Name": "Картофельные шарики с сыром,  7 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9c064879-2698-4390-9693-7783b5267834",
+      "Product.Name": "КУРИНАЯ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9c1d14fc-1b0e-4442-a9cb-eb8e670ceb01",
+      "Product.Name": "Каппуччино",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9c630a74-07a6-41da-8b5d-ba02f5e92506",
+      "Product.Name": "50/50 QUVVAT 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9cc53b2b-53fa-4731-94f3-d8271ad50dcc",
+      "Product.Name": "Соус Сырный",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9d22d2cc-7b51-482a-891d-0e7f9ae3c13f",
+      "Product.Name": "Чёрный чай ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9d5481fa-f6bb-4ebf-90b6-493b82063261",
+      "Product.Name": "ГРИБНАЯ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9d869077-9429-43b2-a8a5-dc6839e570f2",
+      "Product.Name": "50/50 ПЕППЕРОНИ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9eb91607-5d71-4b93-9c89-97ba4cbf0a56",
+      "Product.Name": "Орбит Мята",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9f3a219b-bfc8-46f5-a78e-5363c6b3ac56",
+      "Product.Name": "ЖУЛЬЕН 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9f84129d-64ed-4b2b-b121-31098ebec46d",
+      "Product.Name": "50/50 ХАНСКАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "9fa0aa1c-dd4f-40fe-a209-6378fab1fbe5",
+      "Product.Name": "50/50 ДВОЙНАЯ ПЕППЕРОНИ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "a06067b7-b107-4f65-98d6-be537fa15f4d",
+      "Product.Name": "ДВОЙНАЯ ПЕППЕРОНИ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "a25f8af4-7f50-4b6c-afec-d9d185121d2a",
+      "Product.Name": "ОХОТНИЧЬЯ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "a2a5db5b-0f27-45ca-8023-aebdb374600e",
+      "Product.Name": "Острые Стрипсы, 11 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "a34d768b-6bfd-471d-93f2-64bb351592d7",
+      "Product.Name": "СОК ВИШНЯ 1.0 СОЧНАЯ ДОЛИНА",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "a48f8c41-d182-4f3b-91d3-9de97d75ebe7",
+      "Product.Name": "50/50 ДВОЙНАЯ ПЕППЕРОНИ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "a576e3fb-ecaa-455b-a4f8-fe56f055098c",
+      "Product.Name": "FANTA разлив 500",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "a5e7172b-12da-4810-8bdd-451420f227a3",
+      "Product.Name": "КУРИНЫЕ НАГГЕТСЫ 6",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "a6c5aef0-afe3-41e5-9025-ada004902d3f",
+      "Product.Name": "50/50 QUVVAT 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "a765af45-d7e1-45a0-9157-2023aba1e089",
+      "Product.Name": "Cookies",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "a94f582e-e3ab-46cb-9593-fa4d38809f59",
+      "Product.Name": "Лестер тостер",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "a9acabcd-89f9-40a8-95fa-0562412628da",
+      "Product.Name": "КУРИНАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "aa71445d-6dc4-4232-923e-f394b6b8c4c3",
+      "Product.Name": "50/50 КУРИНАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ac06ce8a-40a4-4fe4-8e8c-9ab7dca0e316",
+      "Product.Name": "МЯСНАЯ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ada14739-81ec-4888-ad3a-3ae180f7a510",
+      "Product.Name": "Бумажный стакан",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ae11017b-7027-471a-a832-76094ab668ae",
+      "Product.Name": "Айс кофе",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ae639f60-e61d-490b-bff8-07807dd64aa4",
+      "Product.Name": "ГАВАЙСКАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "aeb774f2-1e52-4e63-907e-e30eafd2a423",
+      "Product.Name": "ЛАЗЗАТ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "af0c551e-0b93-4e44-bb4d-dd7fcad77a1d",
+      "Product.Name": "Зелёный чай",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "af19c115-2033-4dde-b471-fb4b5f5a933f",
+      "Product.Name": "ПЕППЕРОНИ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "af7cf99a-5682-4c72-b5a9-7f48823afb33",
+      "Product.Name": "Лестер24",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "af8dbadf-18dd-45c2-a156-6cb8e54e3383",
+      "Product.Name": "QUVVAT 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "affdb105-823a-4a54-9d4a-8b353c917eea",
+      "Product.Name": "Крылышки,  3 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b16c3c50-c5c6-4ab0-aa1a-c15750c5a0e0",
+      "Product.Name": "Кофе растворимый, 3 в 1",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b270a4b0-dc78-4ab5-a2ee-5195ca63ca66",
+      "Product.Name": "МЯСНАЯ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b31f273d-3277-4618-9849-cc1f8eab5ba4",
+      "Product.Name": "ДВОЙНАЯ ПЕППЕРОНИ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b393e022-4309-4118-b19d-a4ec7ffe0b01",
+      "Product.Name": "Sprite 250 ml",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b46a6887-fc39-4b55-bdfe-02e54b1ce1f7",
+      "Product.Name": "Сок Лимон-мята 1 л",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b46b4354-4f8a-4112-9342-dccbfe0267fa",
+      "Product.Name": "Комбо сет М",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b4c9b921-b8f8-4e41-a6bb-000b98693dfe",
+      "Product.Name": "ЦЕЗАРЬ СОУС",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b4ca5e6e-afd2-47a4-8897-59ac87502cea",
+      "Product.Name": "КАРТОФЕЛЬ ПО-ДЕРЕВЕНСКИ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b4cfdc68-87b1-40f0-a9b8-97c733c263ba",
+      "Product.Name": "ХАНСКАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b4eaac13-cfa4-4df5-bf48-3a618d28caa5",
+      "Product.Name": "БАРБЕКЮ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b619c8e2-d1ed-4eda-a336-0d2e19e8048e",
+      "Product.Name": "Fanta 500",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b70f67e6-4ff5-4969-9e78-419ca44b9e5b",
+      "Product.Name": "СОК ЯБЛОКО 1.0 СОЧНАЯ ДОЛИНА",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b77f0cca-f0c0-477f-bb2a-e5888a1d7915",
+      "Product.Name": "Чикен стикс 3 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b789fb1b-a7f8-4df2-a788-6390dbff8d07",
+      "Product.Name": "Мангал ассорти 6",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b7f45d3b-57de-4caf-986b-860e0b59e4da",
+      "Product.Name": "Coca-cola 500",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "b9745a25-308a-4302-82a0-c5978284570a",
+      "Product.Name": "КАРТОШКА АМСТЕРДАМ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "bac5f901-d82c-416c-a23f-5f5f730d1159",
+      "Product.Name": "0.5 COCA-COLA",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "badfbcec-f6f0-407b-91b4-423f5601c8e2",
+      "Product.Name": "КОМБО 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "bb66eccd-530a-4037-b80a-06003d595405",
+      "Product.Name": "QUVVAT 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "bc06e94c-8f45-4cf5-a941-1445c35f2cc4",
+      "Product.Name": "НОВЫЙ МУМТОЗ СЕТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "bcac70e9-eca3-4d7e-b380-ab7461aab46d",
+      "Product.Name": "БАЙРАМ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "bce6bd8c-5cd2-4105-b11b-7606daf3d2e3",
+      "Product.Name": "АКЦИЯ КУРИНЫЕ НАГГЕТСЫ 6",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "bcf3b4c3-3be0-48fe-be3e-ad45442c9c4c",
+      "Product.Name": "РОСТБИФ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "bdedb2af-924e-4162-a014-acdfbb1838b5",
+      "Product.Name": "Сок Зеленое Яблоко 1 л",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "bdf47352-e92d-4819-9f13-7caa86c26017",
+      "Product.Name": "БАЙРАМ 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "be724b45-206c-4a36-a092-7311a672c0b4",
+      "Product.Name": "Крылышки,  7 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "bf3b4fa6-6dea-48ad-a5d0-d30dcf41493c",
+      "Product.Name": "QUVVAT 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "bfc67758-8d47-4534-b307-6cbe2b072e1a",
+      "Product.Name": "КОМБО 25",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c05655a3-8d22-4682-acf9-f1ed277baee4",
+      "Product.Name": "SPRITE 0.5",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c05d3f27-fb0f-404b-9152-6de629b68f42",
+      "Product.Name": "QUVVAT 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c060bfcb-ce8b-4e24-9652-b0d1aabce54b",
+      "Product.Name": "Барбекю бургер",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c13ae96d-f705-44f7-830f-3401edda9b30",
+      "Product.Name": "Биг бокс24",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c1695550-0316-409b-9945-e85346d152bd",
+      "Product.Name": "МАРГАРИТА 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c3657f7f-a983-4e41-bdcc-a5c8d0c2765a",
+      "Product.Name": "Blueberry",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c483bbb2-9aeb-44aa-9368-e5e9f9484192",
+      "Product.Name": "Орбит Мята",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c4e301b1-901a-4eb9-87da-a2fabc540a77",
+      "Product.Name": "COCA-COLA 250ml",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c592ac41-0d18-4817-bfb5-86e85ad0dd5a",
+      "Product.Name": "50/50 МЯСНАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c59b1521-7d86-4d3e-a0cc-abc286f6b717",
+      "Product.Name": "СЕТ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c63ae011-d7a2-4532-baf1-40a046c4136a",
+      "Product.Name": "Сок Мультифрукт 1 л",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c9adc2c4-94fd-4969-8353-acd4b18dfb52",
+      "Product.Name": "РОСТБИФ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "c9bd3192-1dfd-478a-a96d-cf5685a1b987",
+      "Product.Name": "КЕТЧУП СОУС",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "caf9fb51-59fd-41ad-9888-a6c19aa38a70",
+      "Product.Name": "Сок Ананас 1 л",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "cbea5f0e-d069-451f-aeec-afe6e91ae5a4",
+      "Product.Name": "СОК ЛИМОН - ЛАЙМ - МЯТА 1.0 СОЧНАЯ ДОЛИНА",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "cc0859e2-9116-417a-a8e3-4f43d62d644c",
+      "Product.Name": "ГАВАЙСКАЯ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "cc3b3a1d-bb1a-4841-ae19-47b78caed0ea",
+      "Product.Name": "Снек сет",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "cd663038-7855-48d1-b9c4-75898ecc3fdf",
+      "Product.Name": "Картошка фри Б",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ce8a4e0e-3a76-412d-91a0-1b6ce772f1b7",
+      "Product.Name": "РОСТБИФ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ce937fb0-db7d-4a99-80dc-6e55891fc782",
+      "Product.Name": "Лонгер рингс сет",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ceba27a8-c1e8-4c9a-90b7-f542a71d6ffc",
+      "Product.Name": "ГРЕЧЕСКИЙ САЛАТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "cfbf6c1c-fd40-497b-a269-85c68b8a276d",
+      "Product.Name": "50/50 ОХОТНИЧЬЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "cfc8bd27-32d8-4eb2-9c3a-ed37ba8a4813",
+      "Product.Name": "Чизи чикен корн",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "d1543fa4-31d5-4cdd-914a-c9be60545f5c",
+      "Product.Name": "50/50 ОХОТНИЧЬЯ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "d3cc2917-9928-4e4c-9bf9-b619078aa572",
+      "Product.Name": "Qiyqiriq set",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "d417dcc0-4eab-414f-9107-5085b3ab959d",
+      "Product.Name": "МЯСНАЯ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "d5a10643-8069-47bf-8f17-61f1b3a2e13c",
+      "Product.Name": "МАРГАРИТА 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "d5b157e1-68f3-4e57-8bf2-6fec7f2482e7",
+      "Product.Name": "Орбит Сладкая Мята",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "d5b389c9-c793-47f1-bd06-812611391a5c",
+      "Product.Name": "Caramel Dark",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "d614b7fd-9346-4c0a-b0ff-04fcb7ea14aa",
+      "Product.Name": "1.0 COCA-COLA",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "d8c2fbb5-d783-4050-8e7b-738e8566b73b",
+      "Product.Name": "FUSE TEA SHAFTOLI 0.45",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "d953d664-5bd1-43ec-bb68-e13e337bad1a",
+      "Product.Name": "Do’stlar 2х",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "da5cac3f-5e5b-4701-9e78-8a9655c23c64",
+      "Product.Name": "Montella 0.33",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "dbb56bf9-71e3-48c8-9e1c-b0ef51495749",
+      "Product.Name": "Мангал ассорти 4",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "dc2f9ad2-ea67-4d90-a52a-6c59d347f1f7",
+      "Product.Name": "50/50 МАРГАРИТА 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "dcba482a-0fee-47cc-84cc-c54c50352761",
+      "Product.Name": "50/50 БАРБЕКЮ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "dd5a3d67-5ef7-43c7-8c5b-5311aa8ff492",
+      "Product.Name": "30 ШОКОЛАДНАЯ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ddbca609-85ad-40ff-b974-264e7ba4c991",
+      "Product.Name": "Cinnamon",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "de7a55bb-3097-4cbe-bb31-bb5b37dd32b7",
+      "Product.Name": "QUVVAT 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "e1957403-d12d-401b-b75a-f34fef20cfae",
+      "Product.Name": "ЧАЙ ЧЕРНЫЙ С ЛИМОНОМ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "e1ba6f5a-ed86-4a5f-82a3-64465472070a",
+      "Product.Name": "Острые Стрипсы,  7 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "e1f61285-4fea-4a59-91d6-3665d5aeb969",
+      "Product.Name": "ЧАЙ ЗЕЛЕНЫЙ С ЛИМОНОМ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "e250a160-c411-48e8-b2d8-e1ac084de977",
+      "Product.Name": "Биг сет",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "e2dc105b-423d-4a2d-abad-2ca662a57ea0",
+      "Product.Name": "ПЕППЕРОНИ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "e372e5e1-545f-44e9-99bb-c415f7873291",
+      "Product.Name": "ПЕППЕРОНИ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "e54d9d96-b4db-4978-a7ab-ebb71ca9695d",
+      "Product.Name": "ЧАЙ ЗЕЛЕНЫЙ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "e58a4026-8479-4287-87d8-34be576ff55f",
+      "Product.Name": "ФРЕНЧ СОУС",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "e787b6c0-f7a6-4811-ad70-935d38559f73",
+      "Product.Name": "Котлета",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "e95446b4-2377-4e67-b22a-614708f3aa46",
+      "Product.Name": "BONAQUA 0.5",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ea082841-0503-4a12-977a-5fbc09bf9cb4",
+      "Product.Name": "50/50 РОСТБИФ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ea0c7326-e1a5-469d-a678-c1ceec82cef3",
+      "Product.Name": "СЫРНАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "eb167322-77a4-4d03-b278-8d8472d96e9d",
+      "Product.Name": "МЯСНАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "eb2e1e26-210b-4167-b7ab-9e7d6db89f36",
+      "Product.Name": "50/50 РОСТБИФ 40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ecadc769-41ae-421c-9ffd-f8727d8e1582",
+      "Product.Name": "Лестер сет",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ecc149c9-a44f-4737-8902-dff6c31a0e18",
+      "Product.Name": "50/50 БАЙРАМ 40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ed4c98a8-dd12-40b9-a677-f3a29f0f323b",
+      "Product.Name": "БАРБЕКЮ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ed87d218-c346-41c9-934b-f8ab5fcf0a3f",
+      "Product.Name": "КУРИНЫЕ НАГГЕТСЫ 9",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ee572148-2751-436f-9eb5-f5d96fb56cc7",
+      "Product.Name": "Сок Up 0.125",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ee8fa511-9922-48cc-9b11-54714e8dbace",
+      "Product.Name": "Орбит Сладкая Мята",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "eec83bcf-12ea-4dcb-95fb-be7d38a75df0",
+      "Product.Name": "0.2 СОК ВИШНЯ СОЧНАЯ ДОЛИНА",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "ef566b1d-3eb2-480d-9784-fa5d0e81f256",
+      "Product.Name": "50/50 КОМБО 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f023f02c-2f40-4bb9-871b-8e7749202042",
+      "Product.Name": "Орбит Сочный Арбуз",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f0457b35-ca90-4439-bb6c-92fa5240f3a9",
+      "Product.Name": "50/50 СЫРНАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f08f0383-d44a-4ddb-a21a-9a25fde049eb",
+      "Product.Name": "СЫРНАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f0a403fc-16fe-4294-8e16-39fc117616c3",
+      "Product.Name": "Соус Чили",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f0aa1294-84cb-4341-bdeb-41d3f7701fff",
+      "Product.Name": "COCA-COLA разлив 500",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f15921b3-d256-475c-a156-3076300fb6d7",
+      "Product.Name": "50/50 ОХОТНИЧЬЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f1cae580-285d-431b-bf78-3a52ed118702",
+      "Product.Name": "Картошка Амстердам Б",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f1edbb65-e723-4336-86ca-4ce9a474759e",
+      "Product.Name": "КОМБО 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f1fa1090-92f6-465d-be59-3ee4a3ede0fe",
+      "Product.Name": "50/50 ХАНСКАЯ 40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f21f524a-9618-44b9-8cf3-20d447853592",
+      "Product.Name": "50/50 ГРИБНАЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f284637f-8fbe-462f-bc38-5d4a33222b2c",
+      "Product.Name": "Les BBQ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f2d85a38-4c2e-43b9-aa50-c4bc485da501",
+      "Product.Name": "ОХОТНИЧЬЯ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f3250343-a525-41b9-aef3-833ae4dd92f3",
+      "Product.Name": "Стрипсы, 15 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f35cba9b-2b95-41bb-abde-14d57177f46a",
+      "Product.Name": "SPRITE 1.0",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f684d497-1c8e-421f-b974-3770cc44af85",
+      "Product.Name": "БАЙРАМ 35+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f6a255d3-a1ed-4012-abfd-85d677201814",
+      "Product.Name": "FANTA BOTTLE",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f6cc48da-d3b6-412d-bfe3-52212ece61a2",
+      "Product.Name": "50/50 ГАВАЙСКАЯ 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f6fff4b0-b203-4017-a071-3742197f9adb",
+      "Product.Name": "50/50 ОХОТНИЧЬЯ 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f7a24b22-237e-420c-a7f6-ba38541b0964",
+      "Product.Name": "FANTA 0.5",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f7b0d913-465d-47a1-81c3-0254959bde5a",
+      "Product.Name": "БАЙРАМ 40+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f86ac03a-7d4e-4f10-9c7b-ced225129610",
+      "Product.Name": "посмикс спрайт 500 мл",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f8ab922e-4abb-4e61-bd7c-5f983a1a61df",
+      "Product.Name": "ЖУЛЬЕН 30",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f9d8bd63-9184-49d2-aaf5-1eb3bcab1f2b",
+      "Product.Name": "Мангал ассорти 2",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "f9dc67e5-d533-4019-9cb7-9919b91e8692",
+      "Product.Name": "Крылышки, 15 шт",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "fa6b0145-0fdf-4823-becb-251a1a6fb542",
+      "Product.Name": "Кофе растворимый, черный",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "fb3473f0-d655-4ed9-814e-bff43560ace4",
+      "Product.Name": "50/50 МАРГАРИТА  40 СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "fc37b91d-3a0c-42cf-a891-cde75acfe06f",
+      "Product.Name": "ГАВАЙСКАЯ 30+ СОСИСОЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "fcbb4343-649b-49fc-beea-72ba7e391fd6",
+      "Product.Name": "РОСТБИФ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "fd8cbf5a-fe14-468b-9607-f527d78c6ba8",
+      "Product.Name": "50/50 ЖУЛЬЕН 40",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "fd9f9945-99c9-4c8e-8e2d-23ef314cd518",
+      "Product.Name": "ОХОТНИЧЬЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "fdf40815-8514-48c4-babb-1c50e7b2ce7d",
+      "Product.Name": "50/50 КУРИНАЯ 35",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "fff4898e-9f77-4aa2-baf4-2ce5f8ceeb80",
+      "Product.Name": "50/50 КУРИНАЯ 40 СОСИСЧНЫЙ БОРТ",
+      "Product.Type": "DISH"
+    }, {
+      "Product.Id": "00913da4-9af2-48bb-8f87-80dab09ecc9c",
+      "Product.Name": "Соус для пиде (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "02e155f5-ac3c-4c56-907c-43a728b4663b",
+      "Product.Name": "Корн дог Hohland (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "07d3f8b2-fd73-46dd-82b8-44106e56a684",
+      "Product.Name": "Пюре картофельное (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "1033a736-d57a-4dc2-bb3a-f1d0c96bb647",
+      "Product.Name": "Булочка для Ходдог (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "14f040f3-76e5-4adb-8ae1-5138317b2f69",
+      "Product.Name": "Тесто для пиццы маленькое (ПФ) *25",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "1c4efc63-ce6f-428a-be65-f30a1e9aa736",
+      "Product.Name": "Котлеть для сет Рамазан(ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "259af618-7ce4-410a-9dff-64ea21cff1b6",
+      "Product.Name": "Наггетсы куриные (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "2971f5e9-5d93-42df-ba39-c9f22c10a93a",
+      "Product.Name": "Котлеты куриные (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "29b500f8-a967-44a1-a922-cd8bfc8b63e8",
+      "Product.Name": "Картофельные шарики (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "2aa15298-ab72-449a-bcee-5df63cddebaa",
+      "Product.Name": "Капуста тушеная (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "2bd118b5-9a7f-4669-aa09-b1d4291d393f",
+      "Product.Name": "Стейк куриный на гриле (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "2bff9d4d-6b0e-496d-a7ec-f75dd0da9843",
+      "Product.Name": "Coleslaw (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "2c4c2381-5d8f-49cb-8262-ac0a3f2906b8",
+      "Product.Name": "Мука (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "2cc3aba9-58d1-4c49-a4cc-f982275ee6dc",
+      "Product.Name": "Маринад для Курицы",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "32de9ba1-4b73-4553-a59d-ccd2056e7e85",
+      "Product.Name": "Соус для  coleslaw (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "3dfc3c32-3394-43e9-8267-a393cfc30ca2",
+      "Product.Name": "Напитки айс ти (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "3ff86b55-8919-4cef-b480-9c9d67630fc0",
+      "Product.Name": "Масло чесночное (ПФ) Опция",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "411bd21c-aaaa-419f-ab6a-544cd2550e51",
+      "Product.Name": "Палочки куриные (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "43882e75-7621-4675-9a45-09b4a11ecaf4",
+      "Product.Name": "Стейк говяжий Транч (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "490782e0-b311-47f5-be94-9fb761f264b0",
+      "Product.Name": "Мариновка (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "4c013adf-71f9-454a-b093-b0e90e555ca3",
+      "Product.Name": "Соус Цезарь (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "4ea2ae6b-9ae3-4b49-b6dc-0adc283fecc2",
+      "Product.Name": "Тесто для пиццы большое (ПФ) *40",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "508016b1-85f8-4391-b7be-b6b7dee75aaa",
+      "Product.Name": "Соус медово горчичный (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "5a1101ed-d7da-4469-9b56-af3293fc4a96",
+      "Product.Name": "Соус French (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "5a3dd27f-44c2-4a70-8396-81e29c5c7f70",
+      "Product.Name": "Масло чесночное (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "5b97de1b-5cf9-4470-a601-eb4b66957841",
+      "Product.Name": "Стрипсы куриные (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "5db500a9-2d60-4a38-980f-c979087a380d",
+      "Product.Name": "Стрипсы куриные Chicken Corn (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "64567707-1b20-4d46-a9cc-3de7b205aeaf",
+      "Product.Name": "Баклажаны с кабачками (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "6f3b71e9-d9b2-42f2-ae18-0aba43b9f08c",
+      "Product.Name": "Соус кетчуп с майонезом (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "71c45abf-5743-4e16-84b6-1e422cb4d600",
+      "Product.Name": "Соус BBQ (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "76c2830f-ceac-484f-8e94-f9c0638a8ffc",
+      "Product.Name": "Лизон (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "777e86be-3663-488b-938b-bd5f68cbe626",
+      "Product.Name": "Ice tea (ПФ) ",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "7abed258-7c55-4d08-9e85-887025b573ec",
+      "Product.Name": "Банка Chicago огурцы (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "7f40bb54-a26c-4efa-95cd-363d1db2bdfc",
+      "Product.Name": "Тесто для пиццы среднее (ПФ) *30",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "7f42e475-434d-490d-a47b-75f7c7f7a16b",
+      "Product.Name": "Сухарик (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "80c9a704-e935-4638-87ea-26a951ae55e5",
+      "Product.Name": "Наггецы куриные Звёздочка (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "8a3f0c1c-1027-4521-99af-0dd0a3a594c5",
+      "Product.Name": "Соус базилик (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "90f0b9e0-4b34-49ff-9282-1ee2da87b5fe",
+      "Product.Name": "Фарш говяжий (ПФ) (котлет)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "91ff8231-a55b-405c-b4dc-fb85ab1bd4f2",
+      "Product.Name": "Соус Терияки (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "921abfe4-b78d-49df-873b-0723eff75748",
+      "Product.Name": "Стейк говяжий на гриле Бон  (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "951dcba5-157c-439e-ae0c-cd95b105d305",
+      "Product.Name": "Булочка для лонгер (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "99b9db91-a020-4afb-af7b-d59eb512029a",
+      "Product.Name": "Стрипсы куриные острые (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "9c6e49bc-87fe-44f7-ac7c-98563768dc8f",
+      "Product.Name": "Стейк куриный Les Ailes (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "9eaf19fb-4349-4cdb-9dc8-056e77b7db4a",
+      "Product.Name": "Майонез Hot Dogi Dog (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "a0c818ba-ce3b-4bdc-9b40-370fe7bfaf12",
+      "Product.Name": "Булочка для Бургера (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "a3d363c6-1ced-4211-a185-a32f20dd55cf",
+      "Product.Name": "Грибы вешенки (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "b454be7d-c994-40b2-9ffc-4617ed44426f",
+      "Product.Name": "Кусочки/крылышки куриные (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "ba9e1f22-2cfb-4844-9cb9-bf7814be73a4",
+      "Product.Name": "Кольца куриные (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "be16a302-e688-4db9-a15d-5612890e3893",
+      "Product.Name": "Соус Range (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "bf01029f-cf4f-4ba5-82f3-4ea194aac9b3",
+      "Product.Name": "Майонез Les AIles для (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "bf1f7a23-4af8-49ab-90ee-dfbb34ef99fc",
+      "Product.Name": "Соус болоньезе (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "bfb74255-7f68-4f4a-81db-360a56dfb1d1",
+      "Product.Name": "Приправа куриная (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "c75a4109-81e4-4a12-b529-f207122bb0e9",
+      "Product.Name": "Лизон для Корн Дог (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "c7e0599f-fcd6-4895-890e-2ea2c66c7e43",
+      "Product.Name": "Тесто для пиццы большое (ПФ) *35",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "ce665e8e-4e30-406d-8ff0-072c8b83d0bf",
+      "Product.Name": "Соус с мёдом (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "cf138729-c5a5-46d4-8668-f3e0d672932a",
+      "Product.Name": "Приправа говяжья (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "d5937bbf-ea03-4abd-9e8f-1f0ee058c270",
+      "Product.Name": "Сироп сахарный (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "d802b7f7-36d2-4435-915e-eac97f0b1a77",
+      "Product.Name": "Буханка (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "d85b4f69-c880-4a7a-a018-1f8e7150a003",
+      "Product.Name": "Кусочки/крылышки куриные острые (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "def517e7-2598-4b5c-bd62-2e0f8492de98",
+      "Product.Name": "Соус сальса (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "e18cd057-75d5-4554-b757-34447753ba3f",
+      "Product.Name": "Куриный палочки (ПФ) (сырний)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "e1e50dbe-e66d-4668-96f8-c2f58543c33a",
+      "Product.Name": "Картофелные шарики Доги (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "e59ba846-c63f-451c-91bd-de79c55526cb",
+      "Product.Name": "Кетчуп (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "e825b2a3-d6b1-48d4-830a-63d0580e7327",
+      "Product.Name": "Шарики куриные с сыром (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "ea5e2d8a-88d6-463a-95fb-5322a9afcfe3",
+      "Product.Name": "Перец болгарский микс (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "ef5c1347-932d-418c-b492-efb7a57676aa",
+      "Product.Name": "Грибы Шампиньон резанные (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "f6606ea6-3989-4f71-b28a-4ed80d3ddda8",
+      "Product.Name": "Маринад для Мяса",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "f7138b32-b3d6-43a7-bef0-cc3516959c8c",
+      "Product.Name": "Фарш говяжий (ПФ) Мажнун",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "fe46e301-8363-4347-b501-463b8088c9f3",
+      "Product.Name": "Соус халапеньо (ПФ)",
+      "Product.Type": "PREPARED"
+    }, {
+      "Product.Id": "29a06222-b7e0-4da4-8c84-379303880af5",
+      "Product.Name": "Халапеньо 25",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "38ee4f3d-36b0-41bf-91b0-096b2fc0e8f7",
+      "Product.Name": "Сырный борт 35",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "3b2dc44d-a803-4f88-a861-3a09515976ee",
+      "Product.Name": "без соленых огурцов",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "3e3373c3-c866-44d7-aca6-e2939ab4657f",
+      "Product.Name": "Халапеньо 35",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "4428db1d-169b-4038-8065-65100e0ee2d1",
+      "Product.Name": "без салатного листа",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "446891d1-23eb-4e1c-88a6-8fc552fdea94",
+      "Product.Name": "Без доп начинки",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "56fe47b3-d3ed-4bd8-b391-a56451f60853",
+      "Product.Name": "Без доп начинки",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "5997d996-a6ba-48d1-ba73-0cca7b2d61b2",
+      "Product.Name": "Чили соус",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "61bc3a60-4fbc-4f3e-b30f-ec9e80786488",
+      "Product.Name": "Халапеньо 35",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "83b373db-9a70-4bec-ad23-471826a63866",
+      "Product.Name": "Сырный борт 40",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "846447bf-bd36-4205-8c88-77c7cddf701e",
+      "Product.Name": "Чили соус",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "9394a217-a1fa-4fc9-a1e4-388481513de4",
+      "Product.Name": "Чили соус",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "93b6d7b0-4e80-4fb8-b05e-3d7fecca7317",
+      "Product.Name": "без майонеза",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "964f8ade-1fcd-411a-86a2-9724d03ab9fd",
+      "Product.Name": "Чили соус",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "9de0ec00-d23f-416f-908f-e91cfba5cd67",
+      "Product.Name": "Халапеньо 30",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "9f0423ac-7875-48c6-8243-3831936a4f92",
+      "Product.Name": "Чили соус",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "afa0951a-204a-4bba-b70a-6e4639b2bdd5",
+      "Product.Name": "Без доп начинки",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "ba21a808-689c-4b83-903b-aceeb48619ab",
+      "Product.Name": "Чили соус",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "c3edec0d-da85-4800-ae15-95d741a649ad",
+      "Product.Name": "Сырный борт 30",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "c7a358ec-b893-4766-be09-1c3cb49ba712",
+      "Product.Name": "без помидора",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "cb909944-7bbe-481c-a80c-549cb5de419a",
+      "Product.Name": "Без доп начинки",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "df4ed606-962b-4e66-aac3-e4437c39b6a6",
+      "Product.Name": "без лука",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "e0f15d2f-8b92-47f2-a98d-8032236550ee",
+      "Product.Name": "Чили соус",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "e18417c0-f191-47ab-88b0-ee800288bf3c",
+      "Product.Name": "без кетчупа",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "eb1ff1cf-a5d5-4fa9-9943-2eb902ca7908",
+      "Product.Name": "без льда",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "edfe8664-85af-4f2f-86be-18976c09a6ad",
+      "Product.Name": "Халапеньо 40",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "ef83d9d1-364a-482f-b334-83c33809e0f1",
+      "Product.Name": "Халапеньо 40",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "f3426ede-7d25-40af-98aa-3778bc887173",
+      "Product.Name": "Без доп начинки",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "ff764d55-ed63-4a5c-9c06-e7e0ec1dc7cc",
+      "Product.Name": "Халапеньо 30",
+      "Product.Type": "MODIFIER"
+    }, {
+      "Product.Id": "ff97bc25-2624-49d4-a0ca-2d00d2fd82ce",
+      "Product.Name": "без соуса",
+      "Product.Type": "MODIFIER"
+    }
+  ],

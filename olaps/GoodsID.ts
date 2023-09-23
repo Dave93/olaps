@@ -7,33 +7,22 @@ const response = await fetch(
   {
     method: "POST",
     body: JSON.stringify({
-      reportType: "SALES",
+      reportType: "TRANSACTIONS",
       buildSummary: "false", //Включает и выключает суммирование (Промежуточные итоги)
       groupByRowFields: [
-        "RestorauntGroup.Id",
-        "OpenTime",
-        "DishId",
-        "DishName",
-        "OrderType",
-        "OriginName",
-        "UniqOrderId.Id",
-        "OrderDeleted",
-        "DeletedWithWriteoff",
+        "Product.Type",
+        "Product.Id",
+        "Product.Name",
       ],
       groupByColFields: [],
-      aggregateFields: [
-        "DishAmountInt",
-        "ItemSaleEventDiscountType.DiscountAmount",
-        "DishDiscountSumInt",
-        "DiscountSum",
-      ],
+      aggregateFields: [],
       filters: {
         // Здесь вводим или какой либо шаблон дат () или опредленный период (так что сперва проверяется шаблон и если он не CUSTOM, то период дат игнорируется)
-        "OpenDate.Typed": {
+        "DateTime.OperDayFilter": {
           filterType: "DateRange",
-          periodType: "CUSTOM", //Тип выборки периоды (Если не CUSTOM ингнорирует from и to)
-          from: "2023-03-01", // Начало
-          to: "2023-03-01", //Конец
+          periodType: "LAST_MONTH", //Тип выборки периоды (Если не CUSTOM ингнорирует from и to)
+          from: "2023-08-31", // Начало
+          to: "2023-08-31", //Конец
           includeLow: true, //Включает и выключает from
           includeHigh: true, // Включает и выключает to
         },

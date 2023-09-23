@@ -20,3 +20,8 @@
 *.swo
 *.swn
 *.bak
+
+
+**/*.json
+
+**/*.log
